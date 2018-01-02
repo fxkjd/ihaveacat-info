@@ -1,0 +1,12 @@
+# Reversing
+
+## Links {#Links}
+
+* [RE C++ Virtual Functions](https://alschwalm.com/blog/static/2016/12/17/reversing-c-virtual-functions/)
+* [Relocatable vs PIE code](http://davidad.github.io/blog/2014/02/19/relocatable-vs-position-independent-code-or/) 
+
+## Tools {#Tools}
+
+* [Retdec - Decompiler](https://github.com/avast-tl/retdec)
+* [Kaitai.io - Online Hexeditor/IDE](https://ide.kaitai.io)
+* [Godbolt - Online compiler explorer](https://godbolt.org/)
