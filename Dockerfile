@@ -11,5 +11,5 @@ COPY . .
 
 # Use -p to bind to specific host port
 EXPOSE 4000
-CMD [ "gitbook", "serve" ]
+CMD [ "gitbook", "serve", "--no-live", "--no-watch"]
 
