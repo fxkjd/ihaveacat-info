@@ -11,3 +11,4 @@
 * [Reversing](reversing/README.md)
     * [Links](reversing/README.md#Links)
     * [Tools](reversing/README.md#Tools)
+* [Misc](misc/README.md)
