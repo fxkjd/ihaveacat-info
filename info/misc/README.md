@@ -9,3 +9,7 @@
 * Make 'cut' command treat several sequential delimiters as one (whitespace):
 
 >$ cat text.txt | tr -s ' ' | cut -d ' ' -f2
+
+* (Win) Deny execution in a directory:
+
+> icacls DIR /deny everyone:(IO)(OI)(X)
