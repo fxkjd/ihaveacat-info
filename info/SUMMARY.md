@@ -6,6 +6,7 @@
 
 * [Crypto](crypto/README.md)
 * [Exploiting](exploiting/README.md)
+* [Malware](malware/README.md)
 * [Post Exploitation](post/README.md)
 * [Reversing](reversing/README.md)
 * [Web](web/README.md)
