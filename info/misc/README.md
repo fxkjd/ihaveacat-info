@@ -12,4 +12,4 @@
 
 * (Win) Deny execution in a directory:
 
-> icacls DIR /deny everyone:(IO)(OI)(X)
+> \> icacls DIR /deny everyone:(IO)(OI)(X)
