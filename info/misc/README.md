@@ -16,7 +16,7 @@
 
 ## Feng shui and Other Cool Tricks {#tricks}
 
-Test the shellcode like this:
+Test the shellcode like this (credit to [@chaign_c](https://twitter.com/chaign_c)):
 
 ```
 $ cat main.c
