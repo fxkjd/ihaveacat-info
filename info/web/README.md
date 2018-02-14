@@ -8,6 +8,8 @@
 * [SAML attack surface](https://github.com/kelbyludwig/saml-attack-surface)
 * [The road to hell is paved with SAML Assertions](http://www.economyofmechanism.com/office365-authbypass.html#short-saml-introduction)
 * [SQLi Wiki](https://sqlwiki.netspi.com/)
+* [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
+* [OAuth 2 Attacks](http://blog.intothesymmetry.com/2013/05/oauth-2-attacks-introducing-devil-wears.html)
 
 ## Web shell {#Web_shell}
 
