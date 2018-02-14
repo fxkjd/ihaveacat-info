@@ -6,6 +6,8 @@
 * [HTTP Security Headers](https://blog.appcanary.com/2017/http-security-headers.html)
 * [Advanced Cross Site Scripting And CSRF](https://tomnomnom.com/talks/advxss.pdf)
 * [SAML attack surface](https://github.com/kelbyludwig/saml-attack-surface)
+* [The road to hell is paved with SAML Assertions](http://www.economyofmechanism.com/office365-authbypass.html#short-saml-introduction)
+* [SQLi Wiki](https://sqlwiki.netspi.com/)
 
 ## Web shell {#Web_shell}
 
