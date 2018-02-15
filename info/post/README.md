@@ -7,4 +7,4 @@
 * [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 * [Windows Privilege Escalation Guide](http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 * [Cool Privilege Escalation Mind Map](https://twitter.com/s4gi_/status/866501430374301696)
-
+* [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
