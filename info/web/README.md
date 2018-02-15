@@ -16,3 +16,6 @@
 * [PHPBash](https://github.com/Arrexel/phpbash)
 * [HTTP PUT Shell](https://github.com/dabeike/http_put_shell)
 
+## Tools {#Tools}
+
+* [JSParser](https://github.com/nahamsec/JSParser)
