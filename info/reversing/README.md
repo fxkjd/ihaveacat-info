@@ -13,3 +13,4 @@
 * [Retdec - Decompiler](https://github.com/avast-tl/retdec)
 * [Kaitai.io - Online Hexeditor/IDE](https://ide.kaitai.io)
 * [Godbolt - Online compiler explorer](https://godbolt.org/)
+* [DNSpy -  .NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
