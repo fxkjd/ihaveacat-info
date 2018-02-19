@@ -18,4 +18,6 @@
 
 ## Tools {#Tools}
 
-* [JSParser](https://github.com/nahamsec/JSParser)
+* [JSParser - parse relative URLs from JavaScript files](https://github.com/nahamsec/JSParser)
+* [Mass-s3-bucket-tester - tests if s3 have dir listings or are uploadable](https://github.com/random-robbie/mass-s3-bucket-tester)
+* [AWS-Scanner - Scans a list of websites for Cloudfront or S3 Buckets ](https://github.com/random-robbie/AWS-Scanner)
