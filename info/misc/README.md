@@ -10,6 +10,10 @@
 
 >$ cat text.txt | tr -s ' ' | cut -d ' ' -f2
 
+* Use 'dd' to remove the first X bits from a file
+
+>$ dd if=YOUR_FILE bs=1 skip=X of=output
+
 * (Win) Deny execution in a directory:
 
 > \> icacls DIR /deny everyone:(IO)(OI)(X)
