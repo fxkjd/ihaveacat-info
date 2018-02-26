@@ -10,6 +10,7 @@
 * [SQLi Wiki](https://sqlwiki.netspi.com/)
 * [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 * [OAuth 2 Attacks](http://blog.intothesymmetry.com/2013/05/oauth-2-attacks-introducing-devil-wears.html)
+* [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ## Web shell {#Web_shell}
 
