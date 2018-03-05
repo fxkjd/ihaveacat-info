@@ -9,6 +9,7 @@
 * [Exploiting](exploiting/README.md)
 * [Malware](malware/README.md)
 * [Post Exploitation](post/README.md)
+* [Red Team](red_team/README.md)
 * [Reversing](reversing/README.md)
 * [Web](web/README.md)
 
