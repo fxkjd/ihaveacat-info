@@ -8,6 +8,8 @@
 * [Debugger Data Model, Javascript & X64 Exception Handling](https://doar-e.github.io/blog/2017/12/01/debugger-data-model/)
 * [ELF Format 101](http://www.intezer.com/executable-linkable-format-101-part1-sections-segments/) - [Part 2](http://www.intezer.com/executable-linkable-format-101-part-2-symbols/)
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
+* [ELF Memory Segmentation Cheat Sheet](https://i.imgur.com/fb5FMNe.jpg)
+* [Corkami Pics](https://github.com/corkami/pics)
 
 ## Tools {#Tools}
 
