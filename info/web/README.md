@@ -12,6 +12,7 @@
 * [OAuth 2 Attacks](http://blog.intothesymmetry.com/2013/05/oauth-2-attacks-introducing-devil-wears.html)
 * [Local File Read Via XSS](http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
 
 ## Web shell {#Web_shell}
 
