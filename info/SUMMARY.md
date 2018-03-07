@@ -8,6 +8,7 @@
 * [Crypto](crypto/README.md)
 * [Exploiting](exploiting/README.md)
 * [Malware](malware/README.md)
+* [Operating System](os/README.md)
 * [Post Exploitation](post/README.md)
 * [Red Team](red_team/README.md)
 * [Reversing](reversing/README.md)
