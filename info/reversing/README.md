@@ -2,7 +2,7 @@
 
 ## Links {#Links}
 
-* [RE C++ Virtual Functions](https://alschwalm.com/blog/static/2016/12/17/reversing-c-virtual-functions/)
+* [RE C++ Virtual Functions](https://alschwalm.com/blog/static/2016/12/17/reversing-c-virtual-functions/) - [Part 2](https://alschwalm.com/blog/static/2017/01/24/reversing-c-virtual-functions-part-2-2/)
 * [Relocatable vs PIE code](http://davidad.github.io/blog/2014/02/19/relocatable-vs-position-independent-code-or/)
 * [Debugging An Evil Go Runtime Bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 * [Debugger Data Model, Javascript & X64 Exception Handling](https://doar-e.github.io/blog/2017/12/01/debugger-data-model/)
