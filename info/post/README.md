@@ -17,4 +17,3 @@
 ## Tools {#Tools}
 
 * [EvilOSX - Pure python RAT for macOS/OSX](https://github.com/Marten4n6/EvilOSX)
-* [APTSimulator - Windows batch script to make a system look as compromised](https://github.com/NextronSystems/APTSimulator)
