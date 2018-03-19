@@ -14,6 +14,7 @@
 * [Red Team](red_team/README.md)
 * [Reversing](reversing/README.md)
 * [Web](web/README.md)
+* [WiFi](wifi/README.md)
 
 ----
 
