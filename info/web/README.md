@@ -25,4 +25,5 @@
 * [Mass-s3-bucket-tester - tests if s3 have dir listings or are uploadable](https://github.com/random-robbie/mass-s3-bucket-tester)
 * [AWS-Scanner - Scans a list of websites for Cloudfront or S3 Buckets ](https://github.com/random-robbie/AWS-Scanner)
 * [JSNice - Javascript Deobfuscation](http://jsnice.org/)
+* [XIP.IO - Wildcard DNS For Everyone](http://xip.io)
 * [SAMLing - Serverless SAML IDP](https://capriza.github.io/samling/samling.html)
