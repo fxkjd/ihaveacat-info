@@ -14,6 +14,10 @@
 
 >$ dd if=YOUR_FILE bs=1 skip=X of=output
 
+* Add line numbers
+
+>$ cat foobar.txt | nl
+
 * (Win) Deny execution in a directory:
 
 > \> icacls DIR /deny everyone:(IO)(OI)(X)
