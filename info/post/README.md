@@ -17,3 +17,4 @@
 ## Tools {#Tools}
 
 * [EvilOSX - Pure python RAT for macOS/OSX](https://github.com/Marten4n6/EvilOSX)
+* [Icebreaker - Active Directory party but you don't possess AD credentials to join the fun, this tool's for you](https://github.com/DanMcInerney/icebreaker)
