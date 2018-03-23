@@ -4,6 +4,7 @@
 
 ----
 
+* [Blue Team](blue_team/README.md)
 * [Bug Bounty](bounty/README.md)
 * [Crypto](crypto/README.md)
 * [Exploiting](exploiting/README.md)
