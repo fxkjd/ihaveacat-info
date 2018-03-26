@@ -12,6 +12,7 @@
 * [Mobile](mobile/README.md)
 * [Network](network/README.md)
 * [Operating System](os/README.md)
+* [OSINT](osint/README.md)
 * [Post Exploitation](post/README.md)
 * [Red Team](red_team/README.md)
 * [Reversing](reversing/README.md)
