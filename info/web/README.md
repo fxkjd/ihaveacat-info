@@ -22,8 +22,8 @@
 
 ## Tools {#Tools}
 
-* [JSParser - parse relative URLs from JavaScript files](https://github.com/nahamsec/JSParser)
-* [Mass-s3-bucket-tester - tests if s3 have dir listings or are uploadable](https://github.com/random-robbie/mass-s3-bucket-tester)
+* [JSParser - Parse relative URLs from JavaScript files](https://github.com/nahamsec/JSParser)
+* [Mass-s3-bucket-tester - Tests if s3 have dir listings or uploadable](https://github.com/random-robbie/mass-s3-bucket-tester)
 * [AWS-Scanner - Scans a list of websites for Cloudfront or S3 Buckets ](https://github.com/random-robbie/AWS-Scanner)
 * [JSNice - Javascript Deobfuscation](http://jsnice.org/)
 * [xip.io - Wildcard DNS For Everyone](http://xip.io)
