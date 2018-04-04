@@ -10,6 +10,7 @@
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
 * [ELF Memory Segmentation Cheat Sheet](https://i.imgur.com/fb5FMNe.jpg)
 * [Corkami Pics](https://github.com/corkami/pics)
+* [Reversing a macOS Kernel Extension](https://lightbulbone.com/posts/2016/10/dsmos-kext/)
 
 ### Radare2 {#Radare2}
 
