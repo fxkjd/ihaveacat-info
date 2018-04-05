@@ -1,5 +1,9 @@
 ## Mobile
 
+## Android {#Android}
+
+* [Instrumenting Native Android Functions Using Frida](https://www.notsosecure.com/instrumenting-native-android-functions-using-frida/)
+
 ## iOS {#Ios}
 
 * [Dynamic Analysis of iOS Apps Without Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
