@@ -14,6 +14,7 @@
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
 * [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
+* [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
 
 ## Web shell {#Web_shell}
 
