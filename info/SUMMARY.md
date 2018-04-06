@@ -7,6 +7,7 @@
 * [Blue Team](blue_team/README.md)
 * [Bug Bounty](bounty/README.md)
 * [Crypto](crypto/README.md)
+* [DevOps](devops/README.md)
 * [Exploiting](exploiting/README.md)
 * [Malware](malware/README.md)
 * [Mobile](mobile/README.md)
