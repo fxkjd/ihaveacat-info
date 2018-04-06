@@ -11,10 +11,13 @@
 * [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 * [OAuth 2 Attacks](http://blog.intothesymmetry.com/2013/05/oauth-2-attacks-introducing-devil-wears.html)
 * [Local File Read Via XSS](http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)
-* [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
-* [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
 * [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
+
+## Payload lists {#Payloads}
+
+* [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
 
 ## Web shell {#Web_shell}
 
