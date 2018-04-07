@@ -2,6 +2,7 @@
 
 Here you can find other awesome lists:
 
+* [Privacy Respecting Services and Software](https://github.com/nikitavoloboev/privacy-respecting)
 * [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
 * [Game Hacking](https://github.com/dsasmblr/game-hacking)
 * [My Awesome](https://github.com/pe3zx/my-awesome)
