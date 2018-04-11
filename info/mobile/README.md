@@ -3,6 +3,7 @@
 ## Android {#Android}
 
 * [Instrumenting Native Android Functions Using Frida](https://www.notsosecure.com/instrumenting-native-android-functions-using-frida/)
+* [How Android Apps are Built and Run](https://github.com/dogriffiths/HeadFirstAndroid/wiki/How-Android-Apps-are-Built-and-Run)
 
 ## iOS {#Ios}
 
