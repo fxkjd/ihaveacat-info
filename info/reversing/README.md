@@ -11,6 +11,7 @@
 * [ELF Memory Segmentation Cheat Sheet](https://i.imgur.com/fb5FMNe.jpg)
 * [Corkami Pics](https://github.com/corkami/pics)
 * [Reversing a macOS Kernel Extension](https://lightbulbone.com/posts/2016/10/dsmos-kext/)
+* [An Introduction to Windows Kernel Debugging](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
 
 ### Radare2 {#Radare2}
 
