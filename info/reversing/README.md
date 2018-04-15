@@ -12,6 +12,7 @@
 * [Corkami Pics](https://github.com/corkami/pics)
 * [Reversing a macOS Kernel Extension](https://lightbulbone.com/posts/2016/10/dsmos-kext/)
 * [An Introduction to Windows Kernel Debugging](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
+* [Anti-instrumentation Techniques: I Know You’re There, Frida!](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/)
 
 ### Radare2 {#Radare2}
 
