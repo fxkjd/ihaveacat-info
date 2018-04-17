@@ -24,7 +24,7 @@
 
 ## Feng shui and Other Cool Tricks {#tricks}
 
-Test the shellcode like this (credit to [@chaign_c](https://twitter.com/chaign_c)):
+### Test the shellcode like this (credit to [@chaign_c](https://twitter.com/chaign_c)):
 
 ```
 $ cat main.c
@@ -36,3 +36,25 @@ uid=0(root) gid=0(root) groups=0(root)
 sh-4.4$ exit
 $
 ```
+
+### Python Bytecode Assembler/Disassembler:
+
+Assemble .py files:
+
+>$ python -m compileall .
+
+Disassemble .pyc files:
+
+```
+import dis, marshal, sys
+
+# Header size changed in 3.3. It might change again, but as of this writing, it hasn't.
+header_size = 12 if sys.version_info >= (3, 3) else 8
+
+with open(PYC_FILE, "rb") as f:
+    magic_and_timestamp = f.read(header_size)  # first 8 or 12 bytes are metadata
+    code = marshal.load(f)                     # rest is a marshalled code object
+
+dis.dis(code)
+```
+
