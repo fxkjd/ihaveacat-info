@@ -6,3 +6,4 @@
 * [Linux Syscall Reference](https://syscalls.kernelgrok.com/)
 * [Linux Kernel Map](http://www.makelinux.net/kernel_map/) 
 * [Overriding System Functions for Fun and Profit](https://hackerboss.com/overriding-system-functions-for-fun-and-profit/)
+* [Inside the Linux Boot Process](https://www.ibm.com/developerworks/library/l-linuxboot/)
