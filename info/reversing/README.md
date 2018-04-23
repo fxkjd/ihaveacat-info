@@ -14,6 +14,7 @@
 * [An Introduction to Windows Kernel Debugging](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
 * [Anti-instrumentation Techniques: I Know You’re There, Frida!](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/)
 * [Common WinDbg Commands](http://windbg.info/doc/1-common-cmds.html)
+* [Anti-debugging Techniques](https://dev.to/lethalbit/anti-debugging-111-you-are-not-breakable-1nao) - [Part 2](https://dev.to/lethalbit/anti-debugging-222-you-can-not-disassemble-5gdo)
 
 ### Radare2 {#Radare2}
 
