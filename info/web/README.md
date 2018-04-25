@@ -13,6 +13,7 @@
 * [Local File Read Via XSS](http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)
 * [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
 * [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
+* [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
 ## Payload lists {#Payloads}
 
