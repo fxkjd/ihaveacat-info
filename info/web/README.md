@@ -15,15 +15,11 @@
 * [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
 * [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
-## Payload lists {#Payloads}
+### Payload lists {#Payloads}
 
+* [HTML5Sec](https://html5sec.org/)
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
-
-## Web shell {#Web_shell}
-
-* [PHPBash](https://github.com/Arrexel/phpbash)
-* [HTTP PUT Shell](https://github.com/dabeike/http_put_shell)
 
 ## Tools {#Tools}
 
@@ -33,6 +29,11 @@
 * [JSNice - Javascript Deobfuscation](http://jsnice.org/)
 * [xip.io - Wildcard DNS For Everyone](http://xip.io)
 * [SAMLing - Serverless SAML IDP](https://capriza.github.io/samling/samling.html)
+
+### Web shell {#Web_shell}
+
+* [PHPBash](https://github.com/Arrexel/phpbash)
+* [HTTP PUT Shell](https://github.com/dabeike/http_put_shell)
 
 ## Challenges {#Challenges}
 
