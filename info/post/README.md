@@ -10,6 +10,7 @@
 * [Cool Privilege Escalation Mind Map](https://twitter.com/s4gi_/status/866501430374301696)
 * [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
 * [Internal Monologue Retrieving NTLM Hashes without Touching LSASS](https://github.com/eladshamir/Internal-Monologue)
+* [Escalating Privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
 
 ## Shells {#Shells}
 
