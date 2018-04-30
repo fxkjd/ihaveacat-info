@@ -5,6 +5,7 @@
 * [Instrumenting Native Android Functions Using Frida](https://www.notsosecure.com/instrumenting-native-android-functions-using-frida/)
 * [How Android Apps are Built and Run](https://github.com/dogriffiths/HeadFirstAndroid/wiki/How-Android-Apps-are-Built-and-Run)
 * [Hacking Android Apps with Frida](https://codemetrix.net/hacking-android-apps-with-frida-1/) - [Part 2](https://codemetrix.net/hacking-android-apps-with-frida-2/) - [Part 3](https://codemetrix.net/hacking-android-apps-with-frida-3/)
+* [Bypassing Android Anti-Emulation](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/) - [Part 2](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-II/) - [Part 3](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-III/)
 
 ## iOS {#Ios}
 
