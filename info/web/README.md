@@ -7,19 +7,22 @@
 * [Advanced Cross Site Scripting And CSRF](https://tomnomnom.com/talks/advxss.pdf)
 * [SAML attack surface](https://github.com/kelbyludwig/saml-attack-surface)
 * [The road to hell is paved with SAML Assertions](http://www.economyofmechanism.com/office365-authbypass.html#short-saml-introduction)
-* [SQLi Wiki](https://sqlwiki.netspi.com/)
-* [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 * [OAuth 2 Attacks](http://blog.intothesymmetry.com/2013/05/oauth-2-attacks-introducing-devil-wears.html)
 * [Local File Read Via XSS](http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)
 * [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
 * [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
-* [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
 ### Payload lists {#Payloads}
 
 * [HTML5Sec](https://html5sec.org/)
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
+
+## Checklists {#Checklists}
+
+* [SQLi Wiki](https://sqlwiki.netspi.com/)
+* [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
+* [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 
 ## Tools {#Tools}
 
