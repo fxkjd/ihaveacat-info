@@ -23,6 +23,7 @@
 * [SQLi Wiki](https://sqlwiki.netspi.com/)
 * [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 * [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)  
 
 ## Tools {#Tools}
 
