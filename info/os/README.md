@@ -12,3 +12,7 @@
 
 * [Windows X86 System Call Table](http://j00ru.vexillium.org/syscalls/nt/32/) - [X64](http://j00ru.vexillium.org/syscalls/nt/64/)
 * [Windows WIN32K.SYS System Call Table](http://j00ru.vexillium.org/win32k_syscalls/) - [X64](http://j00ru.vexillium.org/win32k_x64/)
+
+## Checklists {#Checklists}
+
+* [Linux Workstation Security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
