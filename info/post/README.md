@@ -19,4 +19,5 @@
 ## Tools {#Tools}
 
 * [EvilOSX - Pure python RAT for macOS/OSX](https://github.com/Marten4n6/EvilOSX)
-* [Icebreaker - Active Directory party but you don't possess AD credentials to join the fun, this tool's for you](https://github.com/DanMcInerney/icebreaker)
+* [Icebreaker - Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment](https://github.com/DanMcInerney/icebreaker)
+* [WinPwnage - Multipurpose windows scripts](https://github.com/rootm0s/WinPwnage)
