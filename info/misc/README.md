@@ -18,6 +18,10 @@
 
 >$ cat foobar.txt | nl
 
+* (MacOS) List TCP listening ports with lsof
+
+>$ sudo lsof -iTCP -sTCP:LISTEN -P -n
+
 * (Win) Deny execution in a directory:
 
 > \> icacls DIR /deny everyone:(IO)(OI)(X)
