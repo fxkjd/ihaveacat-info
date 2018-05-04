@@ -12,6 +12,7 @@
 
 * [Windows X86 System Call Table](http://j00ru.vexillium.org/syscalls/nt/32/) - [X64](http://j00ru.vexillium.org/syscalls/nt/64/)
 * [Windows WIN32K.SYS System Call Table](http://j00ru.vexillium.org/win32k_syscalls/) - [X64](http://j00ru.vexillium.org/win32k_x64/)
+* [LM, NTHash, NTLM and Net-NTLMv2 Explanation](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4?bypass=1)
 
 ## Checklists {#Checklists}
 
