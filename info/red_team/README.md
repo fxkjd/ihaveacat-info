@@ -11,3 +11,4 @@
 * [APTSimulator - Windows batch script to make a system look as compromised](https://github.com/NextronSystems/APTSimulator)
 * [Metta - Adversarial Simulation Tool](https://github.com/uber-common/metta)
 * [Infection Monkey - An Automated Pentest Tool](https://github.com/guardicore/monkey)
+* [ShellPop - Generate Reverse or Bind Shell Commands](https://github.com/0x00-0x00/ShellPop)
