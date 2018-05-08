@@ -1,5 +1,9 @@
 # OSINT 
 
+## Links {#links}
+
+* [Doing Reconnaissance the Hard Way](https://0xpatrik.com/asset-discovery/)
+
 ## Tools {#tools}
 
 * [Bgpview - Online investigation tool](https://bgpview.io/)
