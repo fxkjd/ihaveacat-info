@@ -21,3 +21,5 @@
 * [EvilOSX - Pure python RAT for macOS/OSX](https://github.com/Marten4n6/EvilOSX)
 * [Icebreaker - Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment](https://github.com/DanMcInerney/icebreaker)
 * [WinPwnage - Multipurpose windows scripts](https://github.com/rootm0s/WinPwnage)
+* [Invoke Obfuscation - PowerShell Obfuscator](https://github.com/danielbohannon/Invoke-Obfuscation)
+* [DNSCat2 - CC over DNS](https://github.com/iagox86/dnscat2)
