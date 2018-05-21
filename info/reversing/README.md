@@ -15,6 +15,8 @@
 * [Anti-instrumentation Techniques: I Know You’re There, Frida!](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/)
 * [Common WinDbg Commands](http://windbg.info/doc/1-common-cmds.html)
 * [Anti-debugging Techniques](https://dev.to/lethalbit/anti-debugging-111-you-are-not-breakable-1nao) - [Part 2](https://dev.to/lethalbit/anti-debugging-222-you-can-not-disassemble-5gdo)
+* [How ELF Binaries Get Run](https://lwn.net/Articles/631631/)
+* [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html)
 
 ### Radare2 {#Radare2}
 
