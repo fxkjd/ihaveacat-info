@@ -36,6 +36,7 @@
 * [SAMLing - Serverless SAML IDP](https://capriza.github.io/samling/samling.html)
 * [Astra - Automated Security Testing for REST API's](https://github.com/flipkart-incubator/Astra/blob/master/README.md)
 * [Tracy - Assist with Finding All Sinks and Sources of a Web Application](https://github.com/nccgroup/tracy)
+* [PwnAuth - Framework for Launching OAuth Abuse Campaigns](https://www.fireeye.com/blog/threat-research/2018/05/shining-a-light-on-oauth-abuse-with-pwnauth.html)
 
 ### Web shell {#Web_shell}
 
