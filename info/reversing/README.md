@@ -17,6 +17,7 @@
 * [Anti-debugging Techniques](https://dev.to/lethalbit/anti-debugging-111-you-are-not-breakable-1nao) - [Part 2](https://dev.to/lethalbit/anti-debugging-222-you-can-not-disassemble-5gdo)
 * [How ELF Binaries Get Run](https://lwn.net/Articles/631631/)
 * [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html)
+* [USB Reverse Engineering: Down the rabbit hole](http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/)
 
 ### Radare2 {#Radare2}
 
