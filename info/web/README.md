@@ -11,6 +11,7 @@
 * [Local File Read Via XSS](http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html)
 * [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
 * [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
+* [CVE-2018-5175: Universal CSP bypass in Firefox](https://mksben.l0.cm/2018/05/cve-2018-5175-firefox-csp-strict-dynamic-bypass.html)
 
 ### Payload lists {#Payloads}
 
