@@ -1,17 +1,20 @@
 # Post Exploitation and Privilege Escalation
 
-## Links {#Links}
+## Post Exploitation Links {#Links-Post}
 
 * [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
 * [Alibaba CDN Domain Fronting](https://medium.com/@vysec.private/alibaba-cdn-domain-fronting-1c0754fa0142)
+* [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
+* [Internal Monologue Retrieving NTLM Hashes without Touching LSASS](https://github.com/eladshamir/Internal-Monologue)
+* [CSharp, DotNetToJScript, XSL](https://rastamouse.me/2018/05/csharp-dotnettojscript-xsl/)
+
+## Privilege Escalation Links {#Links-Privilege}
+
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 * [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 * [Windows Privilege Escalation Guide](http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 * [Cool Privilege Escalation Mind Map](https://twitter.com/s4gi_/status/866501430374301696)
-* [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
-* [Internal Monologue Retrieving NTLM Hashes without Touching LSASS](https://github.com/eladshamir/Internal-Monologue)
 * [Escalating Privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
-* [CSharp, DotNetToJScript, XSL](https://rastamouse.me/2018/05/csharp-dotnettojscript-xsl/)
 
 ## Shells {#Shells}
 
