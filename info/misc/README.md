@@ -18,6 +18,10 @@
 
 >$ cat foobar.txt | nl
 
+* Bash one-line port-scanner
+
+>$ scan(){ for ((i=$2; i<=$3; i++)); do (</dev/tcp/$1/$i) &>/dev/null && echo "$i open";done } #scan 127.0.0.1 1 65535
+
 * (MacOS) List TCP listening ports with lsof
 
 >$ sudo lsof -iTCP -sTCP:LISTEN -P -n
