@@ -6,18 +6,28 @@
 * [Relocatable vs PIE code](http://davidad.github.io/blog/2014/02/19/relocatable-vs-position-independent-code-or/)
 * [Debugging An Evil Go Runtime Bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 * [Debugger Data Model, Javascript & X64 Exception Handling](https://doar-e.github.io/blog/2017/12/01/debugger-data-model/)
-* [ELF Format 101](http://www.intezer.com/executable-linkable-format-101-part1-sections-segments/) - [Part 2](http://www.intezer.com/executable-linkable-format-101-part-2-symbols/)
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
-* [ELF Memory Segmentation Cheat Sheet](https://i.imgur.com/fb5FMNe.jpg)
 * [Corkami Pics](https://github.com/corkami/pics)
-* [Reversing a macOS Kernel Extension](https://lightbulbone.com/posts/2016/10/dsmos-kext/)
-* [An Introduction to Windows Kernel Debugging](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
 * [Anti-instrumentation Techniques: I Know You’re There, Frida!](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/)
-* [Common WinDbg Commands](http://windbg.info/doc/1-common-cmds.html)
 * [Anti-debugging Techniques](https://dev.to/lethalbit/anti-debugging-111-you-are-not-breakable-1nao) - [Part 2](https://dev.to/lethalbit/anti-debugging-222-you-can-not-disassemble-5gdo)
-* [How ELF Binaries Get Run](https://lwn.net/Articles/631631/)
 * [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html)
 * [USB Reverse Engineering: Down the rabbit hole](http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/)
+* [Hiding Call To Ptrace](https://github.com/yellowbyte/analysis-of-anti-analysis/blob/master/research/hiding_call_to_ptrace/hiding_call_to_ptrace.md)
+
+### Linux {#RE_Linux}
+
+* [ELF Format 101](http://www.intezer.com/executable-linkable-format-101-part1-sections-segments/) - [Part 2](http://www.intezer.com/executable-linkable-format-101-part-2-symbols/)
+* [ELF Memory Segmentation Cheat Sheet](https://i.imgur.com/fb5FMNe.jpg)
+* [How ELF Binaries Get Run](https://lwn.net/Articles/631631/)
+
+### MacOS {#RE_Macos}
+
+* [Reversing a macOS Kernel Extension](https://lightbulbone.com/posts/2016/10/dsmos-kext/)
+
+### Windows {#RE_Windows}
+
+* [An Introduction to Windows Kernel Debugging](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
+* [Common WinDbg Commands](http://windbg.info/doc/1-common-cmds.html)
 
 ### Radare2 {#Radare2}
 
