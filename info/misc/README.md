@@ -1,6 +1,6 @@
 # Misc
 
-## Commands I Always Forget {#Links}
+## Commands I always forget {#Links}
 
 * Create a 20 characters long random password using /dev/urandom:
 
@@ -30,7 +30,7 @@
 
 > \> icacls DIR /deny everyone:(IO)(OI)(X)
 
-## Feng shui and Other Cool Tricks {#tricks}
+## Feng shui and other cool tricks {#tricks}
 
 ### Test the shellcode like this (credit to [@chaign_c](https://twitter.com/chaign_c)):
 
@@ -45,7 +45,7 @@ sh-4.4$ exit
 $
 ```
 
-### Python Bytecode Assembler/Disassembler:
+### Python bytecode assembler/disassembler:
 
 Assemble .py files:
 
