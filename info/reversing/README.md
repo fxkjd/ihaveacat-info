@@ -19,6 +19,7 @@
 * [ELF Format 101](http://www.intezer.com/executable-linkable-format-101-part1-sections-segments/) - [Part 2](http://www.intezer.com/executable-linkable-format-101-part-2-symbols/)
 * [ELF Memory Segmentation Cheat Sheet](https://i.imgur.com/fb5FMNe.jpg)
 * [How ELF Binaries Get Run](https://lwn.net/Articles/631631/)
+* [The Real Power of Linux Executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
 
 ### MacOS {#RE_Macos}
 
