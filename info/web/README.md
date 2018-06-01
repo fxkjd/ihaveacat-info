@@ -12,6 +12,7 @@
 * [Blind XXE](https://blog.zsec.uk/blind-xxe-learning/amp/)
 * [CORS Findings: Another Way to Comprehend](https://www.trustedsec.com/2018/04/cors-findings/)
 * [CVE-2018-5175: Universal CSP bypass in Firefox](https://mksben.l0.cm/2018/05/cve-2018-5175-firefox-csp-strict-dynamic-bypass.html)
+* [Side-channel Attacking Browsers through CSS3 Features](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/)
 
 ### Payload lists {#Payloads}
 
