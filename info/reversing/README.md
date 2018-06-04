@@ -40,6 +40,7 @@
 * [Kaitai.io - Online Hexeditor/IDE](https://ide.kaitai.io)
 * [Godbolt - Online compiler explorer](https://godbolt.org/)
 * [DNSpy - .NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
+* [PyREBox - Python scriptable Reverse Engineering Sandbox](https://github.com/Cisco-Talos/pyrebox)
 
 ## Challenges {#Challenges}
 
