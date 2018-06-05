@@ -6,6 +6,7 @@
 * [Facebook Red Teams](https://medium.com/starting-up-security/red-teams-6faa8d95f602)
 * [Top Five Ways The Read Team Breached The Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 
 ## Tools {#Tools}
 
