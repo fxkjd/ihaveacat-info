@@ -40,6 +40,7 @@
 * [Tracy - Assist with Finding All Sinks and Sources of a Web Application](https://github.com/nccgroup/tracy)
 * [PwnAuth - Framework for Launching OAuth Abuse Campaigns](https://www.fireeye.com/blog/threat-research/2018/05/shining-a-light-on-oauth-abuse-with-pwnauth.html)
 * [CloudScraper - Enumerate Targets in Search of Cloud Resources](https://github.com/jordanpotti/CloudScraper)
+* [Freddy the Serial(isation) Killer - Deserialization Bug Finder](https://github.com/nccgroup/freddy) - [Info](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/june/finding-deserialisation-issues-has-never-been-easier-freddy-the-serialisation-killer/)
 
 ### Web shell {#Web_shell}
 
