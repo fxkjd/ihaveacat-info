@@ -3,6 +3,7 @@
 ## Links {#links}
 
 * [Doing Reconnaissance the Hard Way](https://0xpatrik.com/asset-discovery/)
+* [Recon— my way](https://medium.com/securityescape/recon-my-way-82b7e5f62e21)
 
 ## Tools {#tools}
 
