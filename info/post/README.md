@@ -7,6 +7,8 @@
 * [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
 * [Internal Monologue Retrieving NTLM Hashes without Touching LSASS](https://github.com/eladshamir/Internal-Monologue)
 * [CSharp, DotNetToJScript, XSL](https://rastamouse.me/2018/05/csharp-dotnettojscript-xsl/)
+* [Restricted Linux Shell Escaping Techniques](https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/)
+* [Windows NTFS Tricks Collection](https://sec-consult.com/en/blog/2018/06/pentesters-windows-ntfs-tricks-collection/)
 
 ## Privilege Escalation Links {#Links-Privilege}
 
