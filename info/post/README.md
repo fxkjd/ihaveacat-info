@@ -9,6 +9,7 @@
 * [CSharp, DotNetToJScript, XSL](https://rastamouse.me/2018/05/csharp-dotnettojscript-xsl/)
 * [Restricted Linux Shell Escaping Techniques](https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/)
 * [Windows NTFS Tricks Collection](https://sec-consult.com/en/blog/2018/06/pentesters-windows-ntfs-tricks-collection/)
+* [Reverse Shell from an OpenVPN Configuration File](https://medium.com/tenable-techblog/reverse-shell-from-an-openvpn-configuration-file-73fd8b1d38da)
 
 ## Privilege Escalation Links {#Links-Privilege}
 
