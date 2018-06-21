@@ -3,6 +3,7 @@
 ## Links {#Links}
 
 * [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
+* [AWS Privilege Escalation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
 
 ## Tools {#Tools}
 
