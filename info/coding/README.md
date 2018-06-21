@@ -16,7 +16,7 @@
 
 ### Python {#Python}
 
-*[Intermediate Python](http://book.pythontips.com/en/latest/index.html)
+* [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 
 ### Notes {#Rust_Notes}
 
