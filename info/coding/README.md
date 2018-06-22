@@ -1,5 +1,9 @@
 # Coding
 
+## Go {#Go}
+
+* [Go Internals](https://github.com/teh-cmc/go-internals)
+
 ## Java {#Java}
 
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
