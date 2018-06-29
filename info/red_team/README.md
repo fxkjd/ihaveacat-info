@@ -7,6 +7,7 @@
 * [Top Five Ways The Read Team Breached The Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+* [PowerShell for Pentesters](https://github.com/Kan1shka9/PowerShell-for-Pentesters)
 
 ## Tools {#Tools}
 
