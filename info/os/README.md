@@ -8,6 +8,7 @@
 * [Overriding System Functions for Fun and Profit](https://hackerboss.com/overriding-system-functions-for-fun-and-profit/)
 * [Inside the Linux Boot Process](https://www.ibm.com/developerworks/library/l-linuxboot/)
 * [Awesome man page](https://twitter.com/b0rk/status/988429757955047430)
+* [ASLR Protection for Statically Linked Executables](https://www.leviathansecurity.com/blog/aslr-protection-for-statically-linked-executables)
 
 ## Windows {#Windows}
 
