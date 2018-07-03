@@ -41,6 +41,7 @@
 * [Godbolt - Online compiler explorer](https://godbolt.org/)
 * [DNSpy - .NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
 * [PyREBox - Python scriptable Reverse Engineering Sandbox](https://github.com/Cisco-Talos/pyrebox)
+* [ProcInfo - Process Monitoring Library for MacOS](https://github.com/objective-see/ProcInfo)
 
 ## Challenges {#Challenges}
 
