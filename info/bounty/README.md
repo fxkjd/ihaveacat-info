@@ -3,6 +3,7 @@
 ## Reports {#repots}
 
 * [F-Secure Anti-Virus: Remote Code Execution via Solid RAR Unpacking](https://landave.io/2018/06/f-secure-anti-virus-remote-code-execution-via-solid-rar-unpacking/) 
+* [Gitea: Unauthenticated Remote Code Execution](https://security.szurek.pl/gitea-1-4-0-unauthenticated-rce.html)
 * [Github: The road to your codebase is paved with forged assertions](http://www.economyofmechanism.com/github-saml)
 * [Google: $36k Google App Engine RCE](https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce)
 * [Google: reCAPTCHA bypass via HTTP Parameter Pollution](https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/)
