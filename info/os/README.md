@@ -19,3 +19,7 @@
 ## Checklists {#Checklists}
 
 * [Linux Workstation Security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
+
+## Tools {#Tools}
+
+* [Explain Shell](https://explainshell.com/)
