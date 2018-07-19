@@ -15,6 +15,7 @@
 * [USB Reverse Engineering: Down the rabbit hole](http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/)
 * [Hiding Call To Ptrace](https://github.com/yellowbyte/analysis-of-anti-analysis/blob/master/research/hiding_call_to_ptrace/hiding_call_to_ptrace.md)
 * [Compiler-assisted Code Randomization](http://dandylife.net/blog/archives/743)
+* [How to Convert Raw Offset to its Virtual Address?](https://reverseengineering.stackexchange.com/a/8053)
 
 ### Linux {#RE_Linux}
 
