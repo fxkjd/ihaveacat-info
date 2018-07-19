@@ -22,9 +22,11 @@
 * [Cool Privilege Escalation Mind Map](https://twitter.com/s4gi_/status/866501430374301696)
 * [Escalating Privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
 
-## Shells {#Shells}
+## Shells & Backdoors {#Shells}
 
 * [Simple Reverse ICMP Shell](https://github.com/interference-security/icmpsh)
+* [Linux Pam Backdoor](https://github.com/zephrax/linux-pam-backdoor)
+
 
 ## Tools {#Tools}
 
