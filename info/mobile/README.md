@@ -17,3 +17,4 @@
 * [StaCoAn -  Static Code Analysis on Mobile Applications](https://github.com/vincentcox/StaCoAn)
 * [Objection - Runtime Mobile Exploration](https://github.com/sensepost/objection)
 * [Brida - Bridge Between Burp Suite and Frida](https://github.com/federicodotta/Brida)
+* [CERT Keyfinder - Utility for finding and analyzing key files on a filesystem](https://github.com/CERTCC/keyfinder)
