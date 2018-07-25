@@ -22,6 +22,10 @@
 
 >$ scan(){ for ((i=$2; i<=$3; i++)); do (</dev/tcp/$1/$i) &>/dev/null && echo "$i open";done } #scan 127.0.0.1 1 65535
 
+* Get the certificate fingerprint from a SSL connection
+
+>$ openssl s_client -connect HOST:PORT < /dev/null 2>/dev/null | openssl x509 -fingerprint -noout -in /dev/stdin
+
 * (MacOS) List TCP listening ports with lsof
 
 >$ sudo lsof -iTCP -sTCP:LISTEN -P -n
