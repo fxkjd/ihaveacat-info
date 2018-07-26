@@ -2,12 +2,13 @@
 
 ## Links {#Links}
 
+* [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 * [Deadpool - Public White-Box implementations and their practical attacks](https://github.com/SideChannelMarvels/Deadpool)
 * [Bcrypt as a Key Derivation Function?](https://security.stackexchange.com/questions/10983/bcrypt-as-a-key-derivation-function/10985#10985)
 
 ### Password Cracking {#Links}
 
-* [Passphrase Wordlist and Hashcat Rules](https://github.com/initstring/passphrase-wordlist)
+* [Passphrase Wordlist and Hashcat Rules](https://gitlab.com/initstring/passphrase-wordlist)
 
 ## Tools {#Tools}
 
