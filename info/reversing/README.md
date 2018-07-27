@@ -16,6 +16,7 @@
 * [Hiding Call To Ptrace](https://github.com/yellowbyte/analysis-of-anti-analysis/blob/master/research/hiding_call_to_ptrace/hiding_call_to_ptrace.md)
 * [Compiler-assisted Code Randomization](http://dandylife.net/blog/archives/743)
 * [How to Convert Raw Offset to its Virtual Address?](https://reverseengineering.stackexchange.com/a/8053)
+* [Dynamic Binary Instrumentation Primer](http://deniable.org/reversing/binary-instrumentation)
 
 ### Linux {#RE_Linux}
 
