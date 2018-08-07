@@ -8,6 +8,7 @@
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 * [PowerShell for Pentesters](https://github.com/Kan1shka9/PowerShell-for-Pentesters)
+* [Red Team Tips](https://vincentyiu.co.uk/red-team-tips/)
 
 ## Tools {#Tools}
 
