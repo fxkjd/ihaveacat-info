@@ -11,6 +11,7 @@
 ## JavaScript {#Javascript}
 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
 
 ## Python {#Python}
 
