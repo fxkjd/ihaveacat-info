@@ -11,6 +11,7 @@
 
 * [Dynamic Analysis of iOS Apps Without Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
 * [Prevent bypassing of SSL certificate pinning in iOS applications](https://www.guardsquare.com/en/blog/iOS-SSL-certificate-pinning-bypassing)
+* [iOS Instrumentation Without Jailbreak](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/)
 
 ## Tools {#Tools}
 
@@ -18,3 +19,4 @@
 * [Objection - Runtime Mobile Exploration](https://github.com/sensepost/objection)
 * [Brida - Bridge Between Burp Suite and Frida](https://github.com/federicodotta/Brida)
 * [CERT Keyfinder - Utility for finding and analyzing key files on a filesystem](https://github.com/CERTCC/keyfinder)
+* [Node-applesign - Command line utility for re-signing iOS applications](https://github.com/nowsecure/node-applesign)
