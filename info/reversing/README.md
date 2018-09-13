@@ -50,3 +50,4 @@
 ## Challenges {#Challenges}
 
 * [Challenges.re](https://challenges.re/)
+* [Root.me](https://www.root-me.org/en/Challenges/)
