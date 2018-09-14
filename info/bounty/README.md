@@ -2,6 +2,7 @@
 
 ## Reports {#repots}
 
+* [Alpine: Remote Code Execution](https://justi.cz/security/2018/09/13/alpine-apk-rce.html)
 * [F-Secure Anti-Virus: Remote Code Execution via Solid RAR Unpacking](https://landave.io/2018/06/f-secure-anti-virus-remote-code-execution-via-solid-rar-unpacking/) 
 * [Gitea: Unauthenticated Remote Code Execution](https://security.szurek.pl/gitea-1-4-0-unauthenticated-rce.html)
 * [Github: The road to your codebase is paved with forged assertions](http://www.economyofmechanism.com/github-saml)
