@@ -16,6 +16,7 @@
 ## Python {#Python}
 
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
+* [Python 3 vs JavaScript](https://sayazamurai.github.io/python-vs-javascript/)
 
 ## Rust {#Rust}
 
