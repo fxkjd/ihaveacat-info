@@ -13,6 +13,7 @@
 * [Reverse Shell from an OpenVPN Configuration File](https://medium.com/tenable-techblog/reverse-shell-from-an-openvpn-configuration-file-73fd8b1d38da)
 * [Five Easy Steps to Bypass Antivirus using manipulated MIME](https://noxxi.de/research/mime-5-easy-steps-to-bypass-av.html)
 * [A Red Teamer’s Guide to GPOs and OUs](https://wald0.com/?p=179)
+* [Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 
 ## Privilege Escalation Links {#Links-Privilege}
 
