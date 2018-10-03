@@ -16,6 +16,7 @@
 * [Quipqiup](https://quipqiup.com/)
 * [Cryptocrack](https://sites.google.com/site/cryptocrackprogram/)
 * [FeatherDuster](https://github.com/nccgroup/featherduster)
+* [Hash Type Check](https://md5hashing.net/hash_type_checker)
 
 ## Challenges {#Challenges}
 
