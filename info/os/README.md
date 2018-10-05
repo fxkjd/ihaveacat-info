@@ -9,6 +9,7 @@
 * [Inside the Linux Boot Process](https://www.ibm.com/developerworks/library/l-linuxboot/)
 * [Awesome man page](https://twitter.com/b0rk/status/988429757955047430)
 * [ASLR Protection for Statically Linked Executables](https://www.leviathansecurity.com/blog/aslr-protection-for-statically-linked-executables)
+* [Linux Kernel Cgroups and Namespaces](https://www.silicon.co.uk/software/open-source/linux-kernel-cgroups-namespaces-containers-186240?inf_by=59f18086681db813098b456c)
 * [OSDev Wiki](https://wiki.osdev.org/Main_Page)
 
 ## Windows {#Windows}
