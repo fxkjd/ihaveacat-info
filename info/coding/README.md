@@ -1,5 +1,9 @@
 # Coding
 
+## Git {#Git}
+
+* [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules#i-want-to-start-a-local-repository)
+
 ## Go {#Go}
 
 * [Go Internals](https://github.com/teh-cmc/go-internals)
