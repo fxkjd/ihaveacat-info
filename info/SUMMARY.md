@@ -23,6 +23,7 @@
 ----
 
 * [Coding](coding/README.md)
+* [Vim](vim/README.md)
 
 ----
 
