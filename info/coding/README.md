@@ -33,6 +33,7 @@
 * [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/#standard-library-traits-used-for-error-handling)
 * [#[test] in 2018](https://blog.jrenner.net/rust/testing/2018/07/19/test-in-2018.html)
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - [more info](https://users.rust-lang.org/t/why-do-rust-programs-use-more-memory-than-the-c-haskell-and-ocaml-versions/3224)
+* [The Rust borrow checker from a different perspective](https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html)
 
 ### Notes {#Rust_Notes}
 
