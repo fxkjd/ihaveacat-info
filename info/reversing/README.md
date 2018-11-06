@@ -17,6 +17,7 @@
 * [Compiler-assisted Code Randomization](http://dandylife.net/blog/archives/743)
 * [How to Convert Raw Offset to its Virtual Address?](https://reverseengineering.stackexchange.com/a/8053)
 * [Dynamic Binary Instrumentation Primer](http://deniable.org/reversing/binary-instrumentation)
+* [Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
 
 ### Linux {#RE_Linux}
 
