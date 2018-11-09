@@ -7,6 +7,7 @@
 * [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
 * [Iptables Essentials](https://github.com/trimstray/iptables-essentials)
 * [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book)
+* [Advanced SSH Tunneling](https://www.taos.com/advanced-ssh-tunneling/)
 
 ## Tools {#Tools}
 
