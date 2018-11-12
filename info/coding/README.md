@@ -6,7 +6,8 @@
 
 ## Git {#Git}
 
-* [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules#i-want-to-start-a-local-repository)
+* [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
+* [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 
 ## Go {#Go}
 
