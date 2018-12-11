@@ -22,6 +22,7 @@
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
 * [Open Redirect Cheat Sheet](https://pentester.land/cheatsheets/2018/11/02/open-redirect-cheatsheet.html)
+* [XSS Polyglot](http://polyglot.innerht.ml/)
 
 ## Checklists {#Checklists}
 
