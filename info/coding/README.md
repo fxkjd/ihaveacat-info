@@ -3,6 +3,7 @@
 ## C {#C}
 
 * [C-Based Toolchain Hardening](https://www.owasp.org/index.php/C-Based_Toolchain_Hardening)
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 
 ## Git {#Git}
 
