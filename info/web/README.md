@@ -22,14 +22,15 @@
 * [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [SSRF Testing Resources](https://github.com/cujanovic/SSRF-Testing/)
 * [Open Redirect Cheat Sheet](https://pentester.land/cheatsheets/2018/11/02/open-redirect-cheatsheet.html)
-* [XSS Polyglot](http://polyglot.innerht.ml/)
+* [XSS Polyglot](http://polyglot.innerht.ml/) 
 
 ## Checklists {#Checklists}
 
 * [SQLi Wiki](https://sqlwiki.netspi.com/)
 * [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 * [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)  
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+* [Exploiting File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion%20-%20Path%20Traversal) - [more](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
 
 ## Tools {#Tools}
 
