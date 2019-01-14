@@ -9,6 +9,7 @@
 * [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book)
 * [Advanced SSH Tunneling](https://www.taos.com/advanced-ssh-tunneling/)
 * [SSH Examples](https://hackertarget.com/ssh-examples-tunnels/)
+* [OpenVPN over TLS](https://serverfault.com/a/681497)
 
 ## Tools {#Tools}
 
