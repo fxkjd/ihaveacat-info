@@ -18,6 +18,7 @@
 * [How to Convert Raw Offset to its Virtual Address?](https://reverseengineering.stackexchange.com/a/8053)
 * [Dynamic Binary Instrumentation Primer](http://deniable.org/reversing/binary-instrumentation)
 * [Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
+* [A Journey into the UEFI Land](https://erfur.github.io/down_the_rabbit_hole_pt1/)
 
 ### Linux {#RE_Linux}
 
