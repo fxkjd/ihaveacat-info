@@ -9,3 +9,4 @@
 ## Tools {#Tools}
 
 * [WhaleTail - Reverse engineer a Docker Image into the Dockerfile](https://github.com/P3GLEG/WhaleTail)
+* [Nginxconfig - NGiИX config generator](https://nginxconfig.io/)
