@@ -23,6 +23,8 @@
 * [Windows Privilege Escalation Guide](http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 * [Cool Privilege Escalation Mind Map](https://twitter.com/s4gi_/status/866501430374301696)
 * [Escalating Privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
+* [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362)
+* [How Attackers Dump Active Directory Database Credentials](https://adsecurity.org/?p=2398)
 
 ## Shells & Backdoors {#Shells}
 
