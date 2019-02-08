@@ -25,6 +25,7 @@
 * [Escalating Privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362)
 * [How Attackers Dump Active Directory Database Credentials](https://adsecurity.org/?p=2398)
+* [Extracting User Password Data with Mimikatz DCSync](https://blog.stealthbits.com/extracting-user-password-data-with-mimikatz-dcsync/)
 
 ## Shells & Backdoors {#Shells}
 
