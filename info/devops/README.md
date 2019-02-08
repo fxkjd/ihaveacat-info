@@ -5,6 +5,7 @@
 * [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 * [AWS Privilege Escalation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
 * [Technical Aspects of CTF Contest Organization](https://www.cert.pl/en/news/single/technical-aspects-of-ctf-contest-organization/)
+* [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 
 ## Tools {#Tools}
 
