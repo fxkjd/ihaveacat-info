@@ -31,7 +31,7 @@
 
 * [Simple Reverse ICMP Shell](https://github.com/interference-security/icmpsh)
 * [Linux Pam Backdoor](https://github.com/zephrax/linux-pam-backdoor)
-
+* [Powershell Shells](https://github.com/samratashok/nishang/tree/master/Shells)
 
 ## Tools {#Tools}
 
