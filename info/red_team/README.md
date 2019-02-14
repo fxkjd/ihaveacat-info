@@ -10,6 +10,7 @@
 * [PowerShell for Pentesters](https://github.com/d1pakda5/PowerShell-for-Pentesters)
 * [Red Team Tips](https://vincentyiu.co.uk/red-team-tips/)
 * [Red Team Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+* [Red Team's SIEM](https://github.com/outflanknl/RedELK)
 
 ## Tools {#Tools}
 
