@@ -13,6 +13,7 @@
 ## Go {#Go}
 
 * [Go Internals](https://github.com/teh-cmc/go-internals)
+* [A visual guide to Go Memory Allocator](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
 ## Java {#Java}
 
