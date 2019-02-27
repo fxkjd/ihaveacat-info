@@ -7,6 +7,7 @@
 * [Technical Aspects of CTF Contest Organization](https://www.cert.pl/en/news/single/technical-aspects-of-ctf-contest-organization/)
 * [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [SRE Google Books](https://landing.google.com/sre/books/)
 
 ## Tools {#Tools}
 
