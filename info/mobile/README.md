@@ -6,6 +6,7 @@
 * [How Android Apps are Built and Run](https://github.com/dogriffiths/HeadFirstAndroid/wiki/How-Android-Apps-are-Built-and-Run)
 * [Hacking Android Apps with Frida](https://codemetrix.net/hacking-android-apps-with-frida-1/) - [Part 2](https://codemetrix.net/hacking-android-apps-with-frida-2/) - [Part 3](https://codemetrix.net/hacking-android-apps-with-frida-3/)
 * [Bypassing Android Anti-Emulation](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/) - [Part 2](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-II/) - [Part 3](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-III/)
+* [MOBISEC - Material and Resources for Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
 
 ## iOS {#Ios}
 
