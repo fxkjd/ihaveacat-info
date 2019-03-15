@@ -9,6 +9,7 @@
 * [Attack vectors against TLS](https://www.cloudinsidr.com/content/known-attack-vectors-against-tls-implementation-vulnerabilities/)
 * [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 * [Which elliptic curves are quantum resistant?](https://crypto.stackexchange.com/questions/35482/which-elliptic-curves-are-quantum-resistant)
+* [2019 Guide to Cryptographic Key Sizes and Algorithm Recommendations](https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations)
 
 ### Password Cracking {#Links}
 
