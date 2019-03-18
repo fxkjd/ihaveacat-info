@@ -8,6 +8,7 @@
 * [All the Right Moves](http://vim.wikia.com/wiki/All_the_right_moves)
 * [Using command-line history](http://vim.wikia.com/wiki/Using_command-line_history)
 * [Vim macros](http://vim.wikia.com/wiki/Macros)
+* [Vim Anti-Patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 
 ## Notes {#Vim_Notes}
 
