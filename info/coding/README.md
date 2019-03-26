@@ -30,6 +30,10 @@
 * [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
 * [Concepts to help developers master JavaScript](https://github.com/leonardomso/33-js-concepts)
 
+### Node.js {#Nodejs}
+
+* [A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
+
 ## Python {#Python}
 
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
