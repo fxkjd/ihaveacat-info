@@ -10,6 +10,7 @@
 * [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 * [Which elliptic curves are quantum resistant?](https://crypto.stackexchange.com/questions/35482/which-elliptic-curves-are-quantum-resistant)
 * [2019 Guide to Cryptographic Key Sizes and Algorithm Recommendations](https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations)
+* [A Go Implementation of Poly1305 that Makes Sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
 
 ### Password Cracking {#Links}
 
