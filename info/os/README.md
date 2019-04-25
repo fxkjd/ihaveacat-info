@@ -12,6 +12,7 @@
 * [Linux Kernel Cgroups and Namespaces](https://www.silicon.co.uk/software/open-source/linux-kernel-cgroups-namespaces-containers-186240?inf_by=59f18086681db813098b456c)
 * [OSDev Wiki](https://wiki.osdev.org/Main_Page)
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+* [Linux Insides](https://github.com/0xAX/linux-insides)
 
 ## Windows {#Windows}
 
