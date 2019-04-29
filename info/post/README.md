@@ -43,3 +43,4 @@
 * [LOLBins - Windows applications that can be (ab)used to spawn additional applications](https://github.com/api0cradle/LOLBAS)
 * [GTFOBins - Unix binaries that can be exploited to bypass security restrictions](https://gtfobins.github.io/#)
 * [procSpy - Monitors and logs user-run commands on a Linux system](https://github.com/itsKindred/procSpy)
+* [PSWinReporting - PowerShell module for monitoring Windows Events](https://evotec.xyz/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/)
