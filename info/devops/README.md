@@ -8,7 +8,7 @@
 * [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [SRE Google Books](https://landing.google.com/sre/books/)
-* [asecure.cloud - A Free Repository of Customizable AWS Security Configurations](https://asecure.cloud/)
+* [Asecure.cloud - A Free Repository of Customizable AWS Security Configurations](https://asecure.cloud/)
 
 ## Tools {#Tools}
 
