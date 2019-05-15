@@ -9,8 +9,13 @@
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [SRE Google Books](https://landing.google.com/sre/books/)
 * [Asecure.cloud - A Free Repository of Customizable AWS Security Configurations](https://asecure.cloud/)
+* [cloud_metadata.txt](https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb)
 
 ## Tools {#Tools}
 
 * [WhaleTail - Reverse engineer a Docker Image into the Dockerfile](https://github.com/P3GLEG/WhaleTail)
 * [Nginxconfig - NGiИX config generator](https://nginxconfig.io/)
+
+## Challenges {#Challenges}
+
+* [flAWS challenge](http://flaws.cloud/)
