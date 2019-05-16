@@ -18,4 +18,4 @@
 
 ## Challenges {#Challenges}
 
-* [flAWS challenge](http://flaws.cloud/)
+* [flAWS challenge](http://flaws.cloud/) - [Part 2](http://flaws2.cloud/)
