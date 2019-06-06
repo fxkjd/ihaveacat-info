@@ -14,7 +14,7 @@
 * [Demystifying CORS](https://frontendian.co/cors)
 * [CVE-2018-5175: Universal CSP bypass in Firefox](https://mksben.l0.cm/2018/05/cve-2018-5175-firefox-csp-strict-dynamic-bypass.html)
 * [Side-channel Attacking Browsers through CSS3 Features](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/)
-* [Convert curl syntax to Python, Node.js, R, PHP, Go](https://curl.trillworks.com/)
+* [How to Bypass Modern WAF](https://habr.com/ru/company/dsec/blog/454592/)
 
 ### Payload lists {#Payloads}
 
@@ -46,6 +46,7 @@
 * [CloudScraper - Enumerate Targets in Search of Cloud Resources](https://github.com/jordanpotti/CloudScraper)
 * [Freddy the Serial(isation) Killer - Deserialization Bug Finder](https://github.com/nccgroup/freddy) - [Info](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/june/finding-deserialisation-issues-has-never-been-easier-freddy-the-serialisation-killer/)
 * [XSStrike - Advanced XSS Detection Suite](https://github.com/s0md3v/XSStrike)
+* [Convert curl syntax to Python, Node.js, R, PHP, Go](https://curl.trillworks.com/)
 
 ### Web shell {#Web_shell}
 
