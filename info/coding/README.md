@@ -4,6 +4,10 @@
 
 * [NASM Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 
+## Awk {#AWK}
+
+* [Awk by Example](https://developer.ibm.com/tutorials/l-awk1/)
+
 ## C {#C}
 
 * [C-Based Toolchain Hardening](https://www.owasp.org/index.php/C-Based_Toolchain_Hardening)
