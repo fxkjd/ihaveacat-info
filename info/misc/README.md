@@ -36,6 +36,19 @@
 
 ## Feng shui and other cool tricks {#tricks}
 
+### Comm usage:
+
+```
+#find lines only in file1
+comm -23 file1 file2 
+
+#find lines only in file2
+comm -13 file1 file2 
+
+#find lines common to both files
+comm -12 file1 file2 
+```
+
 ### Test the shellcode like this (credit to [@chaign_c](https://twitter.com/chaign_c)):
 
 ```
