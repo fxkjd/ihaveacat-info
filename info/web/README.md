@@ -47,6 +47,9 @@
 * [Freddy the Serial(isation) Killer - Deserialization Bug Finder](https://github.com/nccgroup/freddy) - [Info](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/june/finding-deserialisation-issues-has-never-been-easier-freddy-the-serialisation-killer/)
 * [XSStrike - Advanced XSS Detection Suite](https://github.com/s0md3v/XSStrike)
 * [Convert curl syntax to Python, Node.js, R, PHP, Go](https://curl.trillworks.com/)
+* [Aquatone - A Tool for Domain Flyovers](https://github.com/michenriksen/aquatone)
+* [WhatWeb - Fingerprint Web Technologies](https://github.com/urbanadventurer/WhatWeb)
+* [Wappalyzer - Fingerprint Web Technologies](https://github.com/AliasIO/Wappalyzer)
 
 ### Web shell {#Web_shell}
 
