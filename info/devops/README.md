@@ -10,6 +10,7 @@
 * [SRE Google Books](https://landing.google.com/sre/books/)
 * [Asecure.cloud - A Free Repository of Customizable AWS Security Configurations](https://asecure.cloud/)
 * [cloud_metadata.txt](https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb)
+* [Kubernetes Cheat Sheet](https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/)
 
 ## Tools {#Tools}
 
