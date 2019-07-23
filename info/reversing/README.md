@@ -20,6 +20,7 @@
 * [Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
 * [A Journey into the UEFI Land](https://erfur.github.io/down_the_rabbit_hole_pt1/)
 * [How to Hack an Expensive Camera and Not Get Killed by Your Wife](https://alexhude.github.io/2019/01/24/hacking-leica-m240.html)
+* [How Computers Boot Up](https://manybutfinite.com/post/how-computers-boot-up/)
 
 ### Linux {#RE_Linux}
 
