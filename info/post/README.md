@@ -16,6 +16,7 @@
 * [Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 * [Darth Sidious - hacking Windows systems](https://chryzsh.gitbooks.io/darthsidious/content/)
 * [Kerberos Cheatsheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
+* [Hiding in the Shadows at ‘’ManagedBy’’ Attribute](https://medium.com/@huykha10/hiding-in-the-shadows-e3c32b89fc1c)
 
 ## Privilege Escalation Links {#Links-Privilege}
 
