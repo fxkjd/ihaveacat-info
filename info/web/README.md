@@ -15,6 +15,7 @@
 * [CVE-2018-5175: Universal CSP bypass in Firefox](https://mksben.l0.cm/2018/05/cve-2018-5175-firefox-csp-strict-dynamic-bypass.html)
 * [Side-channel Attacking Browsers through CSS3 Features](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/)
 * [How to Bypass Modern WAF](https://habr.com/ru/company/dsec/blog/454592/)
+* [Advanced Blind XSS Payloads](https://ardern.io/2019/06/20/payload-bxss/)
 
 ### Payload lists {#Payloads}
 
