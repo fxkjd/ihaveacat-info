@@ -51,6 +51,7 @@
 * [Aquatone - A Tool for Domain Flyovers](https://github.com/michenriksen/aquatone)
 * [WhatWeb - Fingerprint Web Technologies](https://github.com/urbanadventurer/WhatWeb)
 * [Wappalyzer - Fingerprint Web Technologies](https://github.com/AliasIO/Wappalyzer)
+* [Rustbuster - Directories and Files Enumeration](https://github.com/phra/rustbuster)
 
 ### Web shell {#Web_shell}
 
