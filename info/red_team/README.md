@@ -13,6 +13,7 @@
 * [Red Team's SIEM](https://github.com/outflanknl/RedELK)
 * [MacOS Red Teaming 201](http://lockboxx.blogspot.com/2019/03/macos-red-teaming-201-introduction.html)
 * [Combining Direct System Calls to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
+* [Making NSA’s PeddleCheap RAT Invisible](https://medium.com/@d.bougioukas/red-team-diary-entry-1-making-nsas-peddlecheap-rat-invisible-f88ccbdc484d)
 
 ## Tools {#Tools}
 
