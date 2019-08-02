@@ -12,6 +12,7 @@
 * [2019 Guide to Cryptographic Key Sizes and Algorithm Recommendations](https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations)
 * [A Go Implementation of Poly1305 that Makes Sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
 * [Constant-Time Algorithms](https://codahale.com/a-lesson-in-timing-attacks/)
+* [A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/)
 
 ### Password Cracking {#Links}
 
