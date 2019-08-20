@@ -52,6 +52,7 @@
 * [WhatWeb - Fingerprint Web Technologies](https://github.com/urbanadventurer/WhatWeb)
 * [Wappalyzer - Fingerprint Web Technologies](https://github.com/AliasIO/Wappalyzer)
 * [Rustbuster - Directories and Files Enumeration](https://github.com/phra/rustbuster)
+* [Eyeballer - Convolutional Neural Network for Analyzing Pentest Screenshots](https://github.com/BishopFox/eyeballer)
 
 ### Web shell {#Web_shell}
 
