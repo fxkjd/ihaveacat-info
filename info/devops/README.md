@@ -12,6 +12,8 @@
 * [cloud_metadata.txt](https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb)
 * [Kubernetes Cheat Sheet](https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/)
 * [AWS IAM Privilege Escalation Methods](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
+* [Kubernetes Pentest Methodology](https://securityboulevard.com/2019/08/kubernetes-pentest-methodology-part-1/)
+* [Can I take over XYZ? - List of Subdomain Takeover](https://github.com/EdOverflow/can-i-take-over-xyz)
 
 ## Tools {#Tools}
 
