@@ -16,6 +16,8 @@
 * [Side-channel Attacking Browsers through CSS3 Features](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/)
 * [How to Bypass Modern WAF](https://habr.com/ru/company/dsec/blog/454592/)
 * [Advanced Blind XSS Payloads](https://ardern.io/2019/06/20/payload-bxss/)
+* [Mongo NoSQL Injection](https://nullsweep.com/a-nosql-injection-primer-with-mongo/)
+* [HTTP Request Smuggling](https://portswigger.net/web-security/request-smuggling)
 
 ### Payload lists {#Payloads}
 
