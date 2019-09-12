@@ -54,6 +54,9 @@
 * [DNSpy - .NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
 * [PyREBox - Python scriptable Reverse Engineering Sandbox](https://github.com/Cisco-Talos/pyrebox)
 * [ProcInfo - Process Monitoring Library for MacOS](https://github.com/objective-see/ProcInfo)
+* [Voltron - Extensible Debugger UI](https://github.com/snare/voltron/)
+* [PWNdbg - GDB Plugin](https://github.com/pwndbg/pwndbg)
+* [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 
 ## Challenges {#Challenges}
 
