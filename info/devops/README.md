@@ -16,7 +16,6 @@
 * [Can I take over XYZ? - List of Subdomain Takeover](https://github.com/EdOverflow/can-i-take-over-xyz)
 * [A Gentle Introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
 
-
 ## Tools {#Tools}
 
 * [WhaleTail - Reverse engineer a Docker Image into the Dockerfile](https://github.com/P3GLEG/WhaleTail)
