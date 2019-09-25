@@ -10,6 +10,7 @@
 * [Advanced SSH Tunneling](https://www.taos.com/advanced-ssh-tunneling/)
 * [SSH Examples](https://hackertarget.com/ssh-examples-tunnels/)
 * [OpenVPN over TLS](https://serverfault.com/a/681497)
+* [When TCP Sockets Refuse to Die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 
 ## Tools {#Tools}
 
