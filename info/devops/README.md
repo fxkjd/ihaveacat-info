@@ -24,3 +24,4 @@
 ## Challenges {#Challenges}
 
 * [flAWS challenge](http://flaws.cloud/) - [Part 2](http://flaws2.cloud/)
+* [Bust-a-Kube](https://www.bustakube.com/)
