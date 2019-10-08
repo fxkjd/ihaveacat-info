@@ -13,6 +13,7 @@
 * [A Go Implementation of Poly1305 that Makes Sense](https://blog.filippo.io/a-literate-go-implementation-of-poly1305/)
 * [Constant-Time Algorithms](https://codahale.com/a-lesson-in-timing-attacks/)
 * [A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/)
+* [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 
 ### Password Cracking {#Links}
 
