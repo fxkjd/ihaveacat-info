@@ -50,3 +50,9 @@ q 	stop recording
 Type q: for commands, or q/ for searches; or
 Type : or / to start entering a command or search, then press the 'cedit' key (default is Ctrl-f :help 'cedit'). 
 ```
+
+* Magic regex:
+
+```
+Preceding your pattern with \v will make the pattern “magic”, symbols like { and [ have an interpreted meaning.
+```
