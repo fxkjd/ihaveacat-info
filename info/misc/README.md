@@ -34,6 +34,14 @@
 
 > \> icacls DIR /deny everyone:(IO)(OI)(X)
 
+* (Win) View visible SMB shares:
+
+> \> net view \\servername
+
+* (Win) Map a share to a drive letter:
+
+> \> net use Z: \\XXX.XXX.XXX.XXX\C$ password /user:domain\username
+
 ## Feng shui and other cool tricks {#tricks}
 
 ### Comm usage:
