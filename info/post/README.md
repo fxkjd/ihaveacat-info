@@ -49,3 +49,4 @@
 * [procSpy - Monitors and logs user-run commands on a Linux system](https://github.com/itsKindred/procSpy)
 * [PSWinReporting - PowerShell module for monitoring Windows Events](https://evotec.xyz/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/)
 * [ZombieAnt - Offensive Tooling for Linux EDR evasion](https://github.com/dsnezhkov/zombieant)
+* [PowerSploit - A PowerShell Post-Exploitation Framework](https://github.com/PowerShellMafia/PowerSploit)
