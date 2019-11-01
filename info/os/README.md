@@ -13,6 +13,7 @@
 * [OSDev Wiki](https://wiki.osdev.org/Main_Page)
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 * [Linux Insides](https://github.com/0xAX/linux-insides)
+* [Htop Explained](https://peteris.rocks/blog/htop/)
 
 ## Windows {#Windows}
 
