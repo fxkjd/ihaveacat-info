@@ -1,4 +1,4 @@
-name: CI
+name: Deploy 
 
 on: [push]
 
@@ -9,10 +9,11 @@ jobs:
 
     steps:
     - name: Update Server Repo
-      uses: maddox/actions/ssh@master
+      uses: fxkjd/actions/ssh@master
       env:
         PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
         HOST: ${{ secrets.HOST }}
         USER: ${{ secrets.USER }}
+        PORT: ${{ secrets.PORT }}
       with:
         args: /opt/deploy/run
