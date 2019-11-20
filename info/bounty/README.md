@@ -14,3 +14,4 @@
 * [PrestaShop: Privilege Escalation](https://www.ambionics.io/blog/prestashop-privilege-escalation)
 * [Shopify: Account takeover via race condition](https://hackerone.com/reports/300305)
 * [Slack: SAML authentication bypass](http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html)
+* [Windows: Windows 7 Privilege Escalation Through consent.exe](https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie-windows-7-secure-desktop-escalation-of-privilege)
