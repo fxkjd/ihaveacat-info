@@ -18,6 +18,7 @@
 * [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
 * [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 * [Oh Shit, Git!](https://ohshitgit.com/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Go {#Go}
 
