@@ -1,4 +1,4 @@
-name: Deploy 
+name: Build & Deploy 
 
 on: [push]
 
@@ -8,7 +8,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Update Server Repo
+    # Build docker image
+    - uses: actions/checkout@v1
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag ihaveacat-info:$(date +%s)
+    # Deploy to server
+    - name: Deploy to Server
       uses: fxkjd/actions/ssh@master
       env:
         PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
