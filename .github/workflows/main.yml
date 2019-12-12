@@ -4,9 +4,8 @@ on: [push]
 
 jobs:
   build:
-
+    name: info.ihavea.cat
     runs-on: ubuntu-latest
-
     steps:
     # Build docker image
     - uses: actions/checkout@v1
