@@ -19,6 +19,7 @@
 * [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story)
 * [Oh Shit, Git!](https://ohshitgit.com/)
 * [Learn Git Branching](https://learngitbranching.js.org/)
+* [How to Undo Almost Anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 
 ## Go {#Go}
 
