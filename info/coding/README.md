@@ -26,6 +26,7 @@
 * [Go Internals](https://github.com/teh-cmc/go-internals)
 * [A visual guide to Go Memory Allocator](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+* [Building a BitTorrent client in Go](https://blog.jse.li/posts/torrent/)
 
 ## Java {#Java}
 
