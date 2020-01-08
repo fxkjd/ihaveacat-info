@@ -13,6 +13,10 @@
 * [C-Based Toolchain Hardening](https://www.owasp.org/index.php/C-Based_Toolchain_Hardening)
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 
+## Compilers {#Compilers}
+
+* [C Compiler from Scratch](https://github.com/DoctorWkt/acwj)
+
 ## Git {#Git}
 
 * [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
