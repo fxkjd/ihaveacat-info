@@ -29,6 +29,7 @@
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362)
 * [How Attackers Dump Active Directory Database Credentials](https://adsecurity.org/?p=2398)
 * [Extracting User Password Data with Mimikatz DCSync](https://blog.stealthbits.com/extracting-user-password-data-with-mimikatz-dcsync/)
+* [NFS Privilege Escalation](https://www.errno.fr/nfs_privesc)
 
 ## Shells & Backdoors {#Shells}
 
