@@ -6,6 +6,7 @@
 * [We Need To Talk About IDS Signatures](http://blog.ptsecurity.com/2018/03/we-need-to-talk-about-ids-signature.html)
 * [Endpoint Isolation with the Windows Firewall](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb)
 * [Dismantling a Fileless Campaign: Astaroth Attack](https://www.microsoft.com/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
+* [Linux Auditing System (aka AuditD)](https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/)
 
 ## Tools {#Tools}
 
