@@ -24,7 +24,6 @@
 * [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
 * [Linkers part 1](https://www.airs.com/blog/archives/38)
 
-
 ### Linux {#RE_Linux}
 
 * [ELF Format 101](http://www.intezer.com/executable-linkable-format-101-part1-sections-segments/) - [Part 2](http://www.intezer.com/executable-linkable-format-101-part-2-symbols/)
@@ -41,6 +40,7 @@
 
 * [An Introduction to Windows Kernel Debugging](https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging)
 * [Common WinDbg Commands](http://windbg.info/doc/1-common-cmds.html)
+* [Reverse engineering course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
 ### Radare2 {#Radare2}
 
