@@ -14,6 +14,7 @@
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 * [Linux Insides](https://github.com/0xAX/linux-insides)
 * [Htop Explained](https://peteris.rocks/blog/htop/)
+* [Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 
 ## Windows {#Windows}
 
