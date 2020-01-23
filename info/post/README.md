@@ -52,3 +52,4 @@
 * [ZombieAnt - Offensive Tooling for Linux EDR evasion](https://github.com/dsnezhkov/zombieant)
 * [PowerSploit - A PowerShell Post-Exploitation Framework](https://github.com/PowerShellMafia/PowerSploit)
 * [SCShell - Fileless Lateral Movement Tool for Windows](https://github.com/Mr-Un1k0d3r/SCShell)
+* [DarkArmour - Windows AV Evasion Tool](https://git.dylan.codes/batman/darkarmour)
