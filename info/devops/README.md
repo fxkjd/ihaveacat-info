@@ -16,6 +16,7 @@
 * [Can I take over XYZ? - List of Subdomain Takeover](https://github.com/EdOverflow/can-i-take-over-xyz)
 * [A Gentle Introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)  
+* [AWS Security Documentation](https://docs.aws.amazon.com/security/)
 
 ## Tools {#Tools}
 
