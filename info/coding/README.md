@@ -60,6 +60,7 @@
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - [more info](https://users.rust-lang.org/t/why-do-rust-programs-use-more-memory-than-the-c-haskell-and-ocaml-versions/3224)
 * [The Rust borrow checker from a different perspective](https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html)
 * [Should small Rust structs be passed by-copy or by-borrow?](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
+* [Rust Lang in a Nutshell](https://www.softax.pl/blog/rust-lang-in-a-nutshell-1-introduction/)
 
 ### Notes {#Rust_Notes}
 
