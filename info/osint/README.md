@@ -19,3 +19,4 @@
 * [InSpy - LinkedIn enumeration tool](https://github.com/gojhonny/InSpy)
 * [Gitrob - Reconnaissance tool for GitHub organizations](https://github.com/michenriksen/gitrob)
 * [Wigle.net - GPS coordinates from BSSID](https://wigle.net/index)
+* [SpiderFoot - OSINT collection and reconnaissance tool](https://github.com/smicallef/spiderfoot)
