@@ -1,5 +1,9 @@
 ## Operating System 
 
+## Links {#Links}
+
+* [Allocator Designs](https://os.phil-opp.com/allocator-designs/)
+
 ## Linux {#Linux}
 
 * [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
