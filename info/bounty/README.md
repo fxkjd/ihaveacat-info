@@ -1,5 +1,9 @@
 # Bug Bounty 
 
+## Links {#links}
+
+* [How to Write a Better Vulnerability Report](https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb)
+
 ## Reports {#repots}
 
 * [Alpine: Remote Code Execution](https://justi.cz/security/2018/09/13/alpine-apk-rce.html)
