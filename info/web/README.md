@@ -18,6 +18,7 @@
 * [Advanced Blind XSS Payloads](https://ardern.io/2019/06/20/payload-bxss/)
 * [Mongo NoSQL Injection](https://nullsweep.com/a-nosql-injection-primer-with-mongo/)
 * [HTTP Request Smuggling](https://portswigger.net/web-security/request-smuggling)
+* [DOM Clobbering Strikes Back](https://portswigger.net/research/dom-clobbering-strikes-back)
 
 ### Payload lists {#Payloads}
 
