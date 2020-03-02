@@ -70,3 +70,23 @@
 let x = &y;
 let ref x = y;
 ```
+
+* Ownership rules:
+
+```
+- with cloning:
+    No special rules to guide against memory bugs
+    Generally expensive for non trivial data structures
+- with moving:
+    Once ownership is moved from a variable, that variable no longer has access to the value it originally holds.
+- with immutable borrow: 
+    you can create unlimited immutable borrows
+    all immutable borrows can only read
+    The original owning variable is now restricted regarding how it mutates the value it owned. It can only mutate as long as no immutable borrow is in scope. This ensures that Rust promise to immutable borrow that the variable they borrow won't change is kept.
+    basically: Many readers, no writers (as long as there are readers around. If not, then writing becomes possible) 
+- with mutable borrow:
+    you can only have one mutable borrow.
+    all reading and writing can be done only via the active mutable borrow.
+    The original owning variable also can no longer read nor write as long as there is an active mutable borrow.
+    basically: One write and reader: the mutable borrow 
+``` 
