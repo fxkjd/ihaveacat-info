@@ -14,3 +14,4 @@ Not completely related info:
 
 * [Privacy Respecting Services and Software](https://github.com/nikitavoloboev/privacy-respecting)
 * [Starting an InfoSec Career](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)
+* [HiddenVM — Use any desktop OS without leaving a trace](https://github.com/aforensics/HiddenVM)
