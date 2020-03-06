@@ -19,6 +19,7 @@
 * [Mongo NoSQL Injection](https://nullsweep.com/a-nosql-injection-primer-with-mongo/)
 * [HTTP Request Smuggling](https://portswigger.net/web-security/request-smuggling)
 * [DOM Clobbering Strikes Back](https://portswigger.net/research/dom-clobbering-strikes-back)
+* [XSleaks and Browser Side Channels](https://github.com/xsleaks/xsleaks/wiki/Browser-Side-Channels)  
 
 ### Payload lists {#Payloads}
 
