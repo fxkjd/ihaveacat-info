@@ -19,6 +19,7 @@
 * [Linux Insides](https://github.com/0xAX/linux-insides)
 * [Htop Explained](https://peteris.rocks/blog/htop/)
 * [Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
+* [Linux Kernel Development](https://devarea.com/linux-kernel-development-and-writing-a-simple-kernel-module/)
 
 ## Windows {#Windows}
 
