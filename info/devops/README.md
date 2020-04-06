@@ -17,6 +17,7 @@
 * [A Gentle Introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)  
 * [AWS Security Documentation](https://docs.aws.amazon.com/security/)
+* [What happens when... Kubernetes edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 
 ## Tools {#Tools}
 
