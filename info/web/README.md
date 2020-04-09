@@ -37,6 +37,7 @@
 * [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 * [Exploiting File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion%20-%20Path%20Traversal) - [more](https://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
+* [Bug Bounty Checklist](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md) 
 
 ## Tools {#Tools}
 
