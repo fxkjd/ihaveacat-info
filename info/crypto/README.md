@@ -14,6 +14,7 @@
 * [Constant-Time Algorithms](https://codahale.com/a-lesson-in-timing-attacks/)
 * [A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/)
 * [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
+* [How NOT to Learn Cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
 
 ### Password Cracking {#Links}
 
