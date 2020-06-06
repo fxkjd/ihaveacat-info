@@ -7,7 +7,7 @@
 * [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
 * [Iptables Essentials](https://github.com/trimstray/iptables-essentials)
 * [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book)
-* [Advanced SSH Tunneling](https://www.taos.com/advanced-ssh-tunneling/)
+* [Advanced SSH Tunneling](https://web.archive.org/web/20180316131701/https://www.taos.com/advanced-ssh-tunneling/)
 * [SSH Examples](https://hackertarget.com/ssh-examples-tunnels/)
 * [OpenVPN over TLS](https://serverfault.com/a/681497)
 * [When TCP Sockets Refuse to Die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
