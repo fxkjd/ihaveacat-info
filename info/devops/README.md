@@ -28,3 +28,4 @@
 
 * [flAWS challenge](http://flaws.cloud/) - [Part 2](http://flaws2.cloud/)
 * [Bust-a-Kube](https://www.bustakube.com/)
+* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
