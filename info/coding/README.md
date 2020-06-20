@@ -51,6 +51,7 @@
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 * [Python 3 vs JavaScript](https://sayazamurai.github.io/python-vs-javascript/)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+* [Better Python 59 Ways](https://github.com/SigmaQuan/Better-Python-59-Ways)
 
 ## Rust {#Rust}
 
