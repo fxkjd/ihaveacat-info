@@ -62,6 +62,7 @@
 * [The Rust borrow checker from a different perspective](https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html)
 * [Should small Rust structs be passed by-copy or by-borrow?](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [Rust Lang in a Nutshell](https://www.softax.pl/blog/rust-lang-in-a-nutshell-1-introduction/)
+* [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 
 ### Notes {#Rust_Notes}
 
