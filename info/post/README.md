@@ -37,6 +37,7 @@
 * [Linux Pam Backdoor](https://github.com/zephrax/linux-pam-backdoor)
 * [Powershell Shells](https://github.com/samratashok/nishang/tree/master/Shells)
 * [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+* [EggShell](https://github.com/neoneggplant/EggShell)
 
 ## Tools {#Tools}
 
