@@ -3,20 +3,15 @@
 ## Links {#Links}
 
 * [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
-* [AWS Privilege Escalation](https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/)
 * [Technical Aspects of CTF Contest Organization](https://www.cert.pl/en/news/single/technical-aspects-of-ctf-contest-organization/)
 * [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [SRE Google Books](https://landing.google.com/sre/books/)
-* [Asecure.cloud - A Free Repository of Customizable AWS Security Configurations](https://asecure.cloud/)
-* [cloud_metadata.txt](https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb)
 * [Kubernetes Cheat Sheet](https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/)
-* [AWS IAM Privilege Escalation Methods](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 * [Kubernetes Pentest Methodology](https://securityboulevard.com/2019/08/kubernetes-pentest-methodology-part-1/)
 * [Can I take over XYZ? - List of Subdomain Takeover](https://github.com/EdOverflow/can-i-take-over-xyz)
 * [A Gentle Introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)  
-* [AWS Security Documentation](https://docs.aws.amazon.com/security/)
 * [What happens when... Kubernetes edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 
 ## Tools {#Tools}
@@ -26,6 +21,5 @@
 
 ## Challenges {#Challenges}
 
-* [flAWS challenge](http://flaws.cloud/) - [Part 2](http://flaws2.cloud/)
 * [Bust-a-Kube](https://www.bustakube.com/)
 * [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
