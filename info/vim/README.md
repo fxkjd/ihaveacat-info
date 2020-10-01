@@ -57,3 +57,11 @@ Type : or / to start entering a command or search, then press the 'cedit' key (d
 ```
 Preceding your pattern with \v will make the pattern “magic”, symbols like { and [ have an interpreted meaning.
 ```
+
+* Remove EOL charcater when editing a file:
+
+```
+:set binary
+:set noeol
+:x or :wq
+```
