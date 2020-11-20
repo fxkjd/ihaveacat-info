@@ -17,6 +17,7 @@
 * [Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet/blob/master/README.md#bd-anchor)
 * [ATT&CK matrix](https://mitre-attack.github.io/attack-navigator/beta/enterprise/)
 * [Redteam.guide](https://redteam.guide/docs/)
+* [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube/blob/main/RedKubeCTL.yml)
 
 ## Tools {#Tools}
 
