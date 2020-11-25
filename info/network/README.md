@@ -12,6 +12,7 @@
 * [OpenVPN over TLS](https://serverfault.com/a/681497)
 * [When TCP Sockets Refuse to Die](https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/)
 * [How to Receive a Million Packets Per Second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
+* [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 
 ## Tools {#Tools}
 
