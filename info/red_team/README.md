@@ -18,6 +18,7 @@
 * [ATT&CK matrix](https://mitre-attack.github.io/attack-navigator/beta/enterprise/)
 * [Redteam.guide](https://redteam.guide/docs/)
 * [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube/blob/main/RedKubeCTL.yml)
+* [A Red Teamer Diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
 
 ## Tools {#Tools}
 
