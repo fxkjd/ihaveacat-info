@@ -28,6 +28,7 @@
 * [Cryptocrack](https://sites.google.com/site/cryptocrackprogram/)
 * [FeatherDuster](https://github.com/nccgroup/featherduster)
 * [Hash Type Check](https://md5hashing.net/hash_type_checker)
+* [Entropy Based Password Validation](https://github.com/lane-c-wagner/go-password-validator)
 
 ## Challenges {#Challenges}
 
