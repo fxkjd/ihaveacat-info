@@ -20,6 +20,7 @@
 * [Htop Explained](https://peteris.rocks/blog/htop/)
 * [Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 * [Linux Kernel Development](https://devarea.com/linux-kernel-development-and-writing-a-simple-kernel-module/)
+* [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 
 ## Windows {#Windows}
 
