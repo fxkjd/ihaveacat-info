@@ -29,6 +29,7 @@
 * [Open Redirect Cheat Sheet](https://pentester.land/cheatsheets/2018/11/02/open-redirect-cheatsheet.html)
 * [XSS Polyglot](http://polyglot.innerht.ml/) 
 * [Portswigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+* [Assetnote Wordlists](https://wordlists.assetnote.io/)
 
 ## Checklists {#Checklists}
 
@@ -59,6 +60,7 @@
 * [Wappalyzer - Fingerprint Web Technologies](https://github.com/AliasIO/Wappalyzer)
 * [Rustbuster - Directories and Files Enumeration](https://github.com/phra/rustbuster)
 * [Eyeballer - Convolutional Neural Network for Analyzing Pentest Screenshots](https://github.com/BishopFox/eyeballer)
+* [FFUF - A fast web fuzzer](https://github.com/ffuf/ffuf)
 
 ### Web shell {#Web_shell}
 
