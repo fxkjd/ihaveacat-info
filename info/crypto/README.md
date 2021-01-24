@@ -17,6 +17,7 @@
 * [How NOT to Learn Cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)
 * [Constant-time Algorithms Written in TypeScript](https://github.com/soatok/constant-time-js)
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+* [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
 
 ### Password Cracking {#Links}
 
