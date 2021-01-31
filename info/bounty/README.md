@@ -4,6 +4,7 @@
 
 * [How to Write a Better Vulnerability Report](https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb)
 * [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
+* [H1 public disclosed bounties](https://twitter.com/disclosedh1)
 
 ## Reports {#repots}
 
