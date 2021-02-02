@@ -13,6 +13,7 @@
 * [A Gentle Introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)  
 * [What happens when... Kubernetes edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
+* [How Twitter Stores 250 Million Tweets a Day Using MySQL](http://highscalability.com/blog/2011/12/19/how-twitter-stores-250-million-tweets-a-day-using-mysql.html)
 
 ## Tools {#Tools}
 
