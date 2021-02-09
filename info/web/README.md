@@ -30,6 +30,7 @@
 * [XSS Polyglot](http://polyglot.innerht.ml/) 
 * [Portswigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 * [Assetnote Wordlists](https://wordlists.assetnote.io/)
+* [XSS that works in 2021](https://netsec.expert/posts/xss-in-2021/)
 
 ## Checklists {#Checklists}
 
