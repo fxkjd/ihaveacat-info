@@ -8,6 +8,8 @@
 * [Bypassing Android Anti-Emulation](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/) - [Part 2](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-II/) - [Part 3](http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-III/)
 * [MOBISEC - Material and Resources for Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
 * [APK splitting](https://raccoon.onyxbits.de/blog/merge-split-apk/)
+* [Extracting proprietary blobs from LineageOS zip files](https://wiki.lineageos.org/extracting_blobs_from_zips.html)
+* [How to Unpack/Pack Factory Images](https://web.archive.org/web/20190729025644/http://rex-shen.net/android-unpackpack-factory-images/)
 
 ## iOS {#Ios}
 
