@@ -21,7 +21,7 @@
 
 ## Privilege Escalation Links {#Links-Privilege}
 
-* [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+* [Basic Linux Privilege Escalation](https://web.archive.org/web/20191104161735/https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 * [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 * [Windows Privilege Escalation Guide](http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 * [Cool Privilege Escalation Mind Map](https://twitter.com/s4gi_/status/866501430374301696)
