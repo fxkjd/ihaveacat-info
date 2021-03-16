@@ -15,7 +15,7 @@
 * [Combining Direct System Calls to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
 * [Making NSA’s PeddleCheap RAT Invisible](https://medium.com/@d.bougioukas/red-team-diary-entry-1-making-nsas-peddlecheap-rat-invisible-f88ccbdc484d)
 * [Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet/blob/master/README.md#bd-anchor)
-* [ATT&CK matrix](https://mitre-attack.github.io/attack-navigator/beta/enterprise/)
+* [ATT&CK matrix](https://mitre-attack.github.io/attack-navigator/beta/enterprise/) - [more](https://attack.mitre.org/matrices/enterprise/)
 * [Redteam.guide](https://redteam.guide/docs/)
 * [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube/blob/main/RedKubeCTL.yml)
 * [A Red Teamer Diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
