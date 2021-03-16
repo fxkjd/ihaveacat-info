@@ -7,7 +7,7 @@
 ## Linux {#Linux}
 
 * [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
-* [Linux Syscall Reference](https://syscalls.kernelgrok.com/)
+* [Linux Syscall Reference](https://syscalls32.paolostivanin.com/) - [64 bit](https://syscalls64.paolostivanin.com/) - [Searchable](https://filippo.io/linux-syscall-table/)
 * [Linux Kernel Map](http://www.makelinux.net/kernel_map/) 
 * [Overriding System Functions for Fun and Profit](https://hackerboss.com/overriding-system-functions-for-fun-and-profit/)
 * [Inside the Linux Boot Process](https://www.ibm.com/developerworks/library/l-linuxboot/)
