@@ -27,3 +27,4 @@
 * [Infection Monkey - An Automated Pentest Tool](https://github.com/guardicore/monkey)
 * [ShellPop - Generate Reverse or Bind Shell Commands](https://github.com/0x00-0x00/ShellPop)
 * [BYOB - Build Your Own Botnet](https://github.com/colental/byob)
+* [FLARE VM - a customizable Windows-based security distribution for malware analysis, pentesting, etc.](https://github.com/fireeye/flare-vm)
