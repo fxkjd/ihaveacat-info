@@ -41,6 +41,7 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
 * [Concepts to help developers master JavaScript](https://github.com/leonardomso/33-js-concepts)
+* [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 
 ### Node.js {#Nodejs}
 
