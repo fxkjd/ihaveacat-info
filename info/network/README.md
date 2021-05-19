@@ -14,6 +14,7 @@
 * [How to Receive a Million Packets Per Second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+* [SSH Port Forwarding Differences](https://unix.stackexchange.com/a/115906)
 
 ## Tools {#Tools}
 
