@@ -24,6 +24,7 @@
 * [Oh Shit, Git!](https://ohshitgit.com/)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [How to Undo Almost Anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
+* [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Go {#Go}
 
@@ -53,6 +54,7 @@
 * [Python 3 vs JavaScript](https://sayazamurai.github.io/python-vs-javascript/)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 * [Better Python 59 Ways](https://github.com/SigmaQuan/Better-Python-59-Ways)
+* [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 
 ## Rust {#Rust}
 
