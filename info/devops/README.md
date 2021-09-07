@@ -16,6 +16,7 @@
 * [How Twitter Stores 250 Million Tweets a Day Using MySQL](http://highscalability.com/blog/2011/12/19/how-twitter-stores-250-million-tweets-a-day-using-mysql.html)
 * [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
 * [Docker Container Security Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)
+* [Troubleshooting Kubernetes Deployments](https://learnk8s.io/troubleshooting-deployments)
 
 ## Tools {#Tools}
 
