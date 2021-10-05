@@ -15,6 +15,8 @@
 * [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 * [SSH Port Forwarding Differences](https://unix.stackexchange.com/a/115906)
+* [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
+* [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
 
 ## Tools {#Tools}
 
