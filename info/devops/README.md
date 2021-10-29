@@ -17,6 +17,8 @@
 * [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
 * [Docker Container Security Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)
 * [Troubleshooting Kubernetes Deployments](https://learnk8s.io/troubleshooting-deployments)
+* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) + [Presentation](https://speakerdeck.com/rung/cd-pipeline)
+* [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5)
 
 ## Tools {#Tools}
 
