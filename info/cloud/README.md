@@ -10,6 +10,7 @@
 * [Cloud Pentest Cheatsheet](https://github.com/dafthack/CloudPentestCheatsheets)
 * [Privilege Escalation and Post Exploitation Tactics in GCP](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/)
 * [Cloud - Pentest Book](https://pentestbook.six2dez.com/enumeration/cloud)
+* [Containers vs. Pods](https://iximiuz.com/en/posts/containers-vs-pods/)
 
 ## Challenges {#Challenges}
 
