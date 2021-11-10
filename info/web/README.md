@@ -68,6 +68,7 @@
 * [PHPBash](https://github.com/Arrexel/phpbash)
 * [HTTP PUT Shell](https://github.com/dabeike/http_put_shell)
 * [Reverse Shell Generator](https://www.revshells.com/)
+* [The Invisible JavaScript Backdoor](https://certitude.consulting/blog/en/invisible-backdoor/)
 
 ## Challenges {#Challenges}
 
