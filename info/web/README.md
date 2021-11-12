@@ -20,6 +20,7 @@
 * [HTTP Request Smuggling](https://portswigger.net/web-security/request-smuggling)
 * [DOM Clobbering Strikes Back](https://portswigger.net/research/dom-clobbering-strikes-back)
 * [XS-Leaks and Browser Side Channels](https://github.com/xsleaks/xsleaks/wiki/Browser-Side-Channels)
+* [Practical HTTP Header Smuggling](https://www.intruder.io/research/practical-http-header-smuggling)
 
 ### Payload lists {#Payloads}
 
