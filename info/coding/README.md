@@ -67,6 +67,9 @@
 * [Rust Lang in a Nutshell](https://www.softax.pl/blog/rust-lang-in-a-nutshell-1-introduction/)
 * [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 * [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
+* [The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html)
+* [Rust data structures with circular references](https://veykril.github.io/tlborm/introduction.html)
+* [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
 
 ### Notes {#Rust_Notes}
 
