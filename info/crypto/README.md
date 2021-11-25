@@ -19,6 +19,7 @@
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
 * [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
 * [Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/a/205)
+* [The Joy of Cryptography](https://joyofcryptography.com/)
 
 ### Password Cracking {#Links}
 
