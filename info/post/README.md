@@ -46,7 +46,7 @@
 * [WinPwnage - Multipurpose windows scripts](https://github.com/rootm0s/WinPwnage)
 * [Invoke Obfuscation - PowerShell Obfuscator](https://github.com/danielbohannon/Invoke-Obfuscation)
 * [DNSCat2 - CC over DNS](https://github.com/iagox86/dnscat2)
-* [LOLBins - Windows applications that can be (ab)used to spawn additional applications](https://github.com/api0cradle/LOLBAS)
+* [LOLBins - Windows applications that can be (ab)used to spawn additional applications](https://lolbas-project.github.io/#)
 * [GTFOBins - Unix binaries that can be exploited to bypass security restrictions](https://gtfobins.github.io/#)
 * [MFNttps - One stop shop for all your Tactics Techniques and Procedure needs](https://mfnttps.github.io/)
 * [procSpy - Monitors and logs user-run commands on a Linux system](https://github.com/itsKindred/procSpy)
