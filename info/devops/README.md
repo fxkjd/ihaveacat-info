@@ -24,6 +24,8 @@
 
 * [WhaleTail - Reverse engineer a Docker Image into the Dockerfile](https://github.com/P3GLEG/WhaleTail)
 * [Nginxconfig - NGiИX config generator](https://nginxconfig.io/)
+* [Trivy - Vulnerability scanner for containers and other artifacts](https://aquasecurity.github.io/trivy)
+* [Checkov - Scans cloud infrastructure configurations to find misconfigurations](https://www.checkov.io/)
 
 ## Challenges {#Challenges}
 
