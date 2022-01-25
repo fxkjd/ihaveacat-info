@@ -19,6 +19,7 @@
 * [Troubleshooting Kubernetes Deployments](https://learnk8s.io/troubleshooting-deployments)
 * [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) + [Presentation](https://speakerdeck.com/rung/cd-pipeline)
 * [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5)
+* [GitHub Actions by Example](https://www.actionsbyexample.com/)
 
 ## Tools {#Tools}
 
