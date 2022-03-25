@@ -20,6 +20,7 @@
 * [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) + [Presentation](https://speakerdeck.com/rung/cd-pipeline)
 * [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
+* [Top 10 CI/CD Security Risks](https://www.cidersecurity.io/top-10-cicd-security-risks/)
 
 ## Tools {#Tools}
 
