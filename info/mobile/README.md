@@ -15,8 +15,9 @@
 
 * [Dynamic Analysis of iOS Apps Without Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
 * [Prevent bypassing of SSL certificate pinning in iOS applications](https://www.guardsquare.com/en/blog/iOS-SSL-certificate-pinning-bypassing)
-* [iOS Instrumentation Without Jailbreak](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/)
+* [iOS Instrumentation Without Jailbreak](https://research.nccgroup.com/2016/10/12/ios-instrumentation-without-jailbreak/)
 * [Online Course About Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps/)
+* [A Beginner's Guide to Hacking iOS Apps (2022)](https://martabyte.github.io/ios/hacking/2022/03/13/ios-hacking-en.html)
 
 ## Tools {#Tools}
 
