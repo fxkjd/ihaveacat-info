@@ -12,6 +12,10 @@
 * [Cloud - Pentest Book](https://pentestbook.six2dez.com/enumeration/cloud)
 * [Containers vs. Pods](https://iximiuz.com/en/posts/containers-vs-pods/)
 
+## Tools
+
+* [Stratus Red Team - Granular, Actionable Adversary Emulation for the Cloud](https://github.com/DataDog/stratus-red-team)
+
 ## Challenges {#Challenges}
 
 * [flAWS challenge](http://flaws.cloud/) - [Part 2](http://flaws2.cloud/)
