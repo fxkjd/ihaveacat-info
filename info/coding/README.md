@@ -71,6 +71,7 @@
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html)
 * [Rust data structures with circular references](https://veykril.github.io/tlborm/introduction.html)
 * [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
+* [Microsoft beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 
 ### Notes {#Rust_Notes}
 
