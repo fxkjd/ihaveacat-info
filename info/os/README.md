@@ -4,6 +4,7 @@
 
 * [Allocator Designs](https://os.phil-opp.com/allocator-designs/)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+* [Memory Models](https://research.swtch.com/mm)
 
 ## Linux {#Linux}
 
