@@ -6,6 +6,7 @@
 * [Awesome Google VRP Writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups)
 * [H1 public disclosed bounties](https://twitter.com/disclosedh1)
 * [BugBountyHunting Search Engine](https://www.bugbountyhunting.com/)
+* [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - [more](https://pentestreports.com/reports/)
 
 ## Reports {#repots}
 
