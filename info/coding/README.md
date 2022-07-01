@@ -46,6 +46,7 @@
 * [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 * [Awesome Functional Programming in JS](https://github.com/stoeffel/awesome-fp-js)
 * [Use Cases for ES6 Proxies](https://web.archive.org/web/20160906183818/http://devbryce.com/use-cases-for-es6-proxies/)
+* [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ### Node.js {#Nodejs}
 
