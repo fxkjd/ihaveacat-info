@@ -76,3 +76,4 @@
 ## Challenges {#Challenges}
 
 * [Extreme Vulnerable Node Application](https://github.com/vegabird/xvna)
+* [Return true to win (JS)](https://alf.nu/ReturnTrue) - [Solutions](https://github.com/Rafalsky/return-true-to-win/blob/master/README.md)
