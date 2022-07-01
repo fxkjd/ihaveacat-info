@@ -44,10 +44,13 @@
 * [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
 * [Concepts to help developers master JavaScript](https://github.com/leonardomso/33-js-concepts)
 * [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+* [Awesome Functional Programming in JS](https://github.com/stoeffel/awesome-fp-js)
+* [Use Cases for ES6 Proxies](https://web.archive.org/web/20160906183818/http://devbryce.com/use-cases-for-es6-proxies/)
 
 ### Node.js {#Nodejs}
 
 * [A complete guide to threads in Node.js](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f)
+* [How to save precious bytes on a Node.js server](https://www.gosquared.com/blog/optimise-node-http-server)
 
 ## Python {#Python}
 
@@ -72,6 +75,7 @@
 * [Rust data structures with circular references](https://veykril.github.io/tlborm/introduction.html)
 * [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
 * [Microsoft beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
+* [The Rust Platform](https://aturon.github.io/blog/2016/07/27/rust-platform/)
 
 ### Notes {#Rust_Notes}
 
