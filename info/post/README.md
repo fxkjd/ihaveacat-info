@@ -30,6 +30,7 @@
 * [How Attackers Dump Active Directory Database Credentials](https://adsecurity.org/?p=2398)
 * [Extracting User Password Data with Mimikatz DCSync](https://blog.stealthbits.com/extracting-user-password-data-with-mimikatz-dcsync/)
 * [NFS Privilege Escalation](https://www.errno.fr/nfs_privesc)
+* [Breaking Out of Citrix and other Restricted Desktop Environments](https://www.pentestpartners.com/security-blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/)
 
 ## Shells & Backdoors {#Shells}
 
