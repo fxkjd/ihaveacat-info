@@ -10,7 +10,7 @@
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
 * [Corkami Pics](https://github.com/corkami/pics)
 * [Anti-instrumentation Techniques: I Know You’re There, Frida!](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/)
-* [Anti-debugging Techniques](https://dev.to/lethalbit/anti-debugging-111-you-are-not-breakable-1nao) - [Part 2](https://dev.to/lethalbit/anti-debugging-222-you-can-not-disassemble-5gdo)
+* [Anti-debugging Techniques](https://web.archive.org/web/20210106212136/https://dev.to/lethalbit/anti-debugging-111-you-are-not-breakable-1nao) - [Part 2](https://web.archive.org/web/20210106212108/https://dev.to/lethalbit/anti-debugging-222-you-can-not-disassemble-5gdo)
 * [Anti-debugging Protection Techniques With Examples](https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software)
 * [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html)
 * [USB Reverse Engineering: Down the rabbit hole](http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/)
