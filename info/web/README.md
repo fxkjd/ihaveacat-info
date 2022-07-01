@@ -22,6 +22,7 @@
 * [XS-Leaks and Browser Side Channels](https://github.com/xsleaks/xsleaks/wiki/Browser-Side-Channels)
 * [Practical HTTP Header Smuggling](https://www.intruder.io/research/practical-http-header-smuggling)
 * [Dangling markup injection](https://portswigger.net/web-security/cross-site-scripting/dangling-markup)
+* [Excess XSS - A comprehensive tutorial on cross-site scripting](https://excess-xss.com/)
 
 ### Payload lists {#Payloads}
 
