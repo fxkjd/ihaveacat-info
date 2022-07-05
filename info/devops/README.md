@@ -22,6 +22,7 @@
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
 * [Top 10 CI/CD Security Risks](https://www.cidersecurity.io/top-10-cicd-security-risks/)
 * [DevSecOps Library](https://github.com/sottlmarek/DevSecOps)
+* [Building on an AppSec Pipeline with Burp Suite data](https://www.silentrobots.com/building-an-appsec-pipeline-with-burpsuite-data/) - [Part 2](https://www.silentrobots.com/pushing-burp-suite-data-into-your-testing-pipeline-part-2/)
 
 ## Tools {#Tools}
 
