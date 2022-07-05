@@ -17,6 +17,7 @@
 * [SSH Port Forwarding Differences](https://unix.stackexchange.com/a/115906)
 * [DNS Record Types](https://www.nslookup.io/learning/dns-record-types/)
 * [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
+* [Reverse Engineering Dark Souls 3 Networking](https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking)
 
 ## Tools {#Tools}
 
