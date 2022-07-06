@@ -58,3 +58,4 @@
 * [DarkArmour - Windows AV Evasion Tool](https://git.dylan.codes/batman/darkarmour)
 * [PyExfil - Python Package for Data Exfiltration](https://github.com/ytisf/PyExfil)
 * [Sliver - BishopFox Adversary Emulation Framework](https://github.com/BishopFox/sliver)
+* [pamspy - Credentials Dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
