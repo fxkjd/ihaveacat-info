@@ -7,7 +7,7 @@
 * [Top Five Ways The Read Team Breached The Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 * [PowerShell for Pentesters](https://github.com/d1pakda5/PowerShell-for-Pentesters)
-* [Red Team Tips](https://vincentyiu.co.uk/red-team-tips/)
+* [Red Team Tips](https://web.archive.org/web/20180806202519/https://vincentyiu.co.uk/red-team-tips/)
 * [Red Team Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [Red Team's SIEM](https://github.com/outflanknl/RedELK)
 * [MacOS Red Teaming 201](http://lockboxx.blogspot.com/2019/03/macos-red-teaming-201-introduction.html)
