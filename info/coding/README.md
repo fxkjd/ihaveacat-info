@@ -25,6 +25,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [How to Undo Almost Anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* [Things I wish everyone knew about Git](https://blog.plover.com/prog/git/tips.html)
 
 ## Go {#Go}
 
@@ -77,6 +78,7 @@
 * [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
 * [Microsoft beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 * [The Rust Platform](https://aturon.github.io/blog/2016/07/27/rust-platform/)
+* [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 
 ### Notes {#Rust_Notes}
 
