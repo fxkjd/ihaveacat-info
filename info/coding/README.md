@@ -79,6 +79,7 @@
 * [Microsoft beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 * [The Rust Platform](https://aturon.github.io/blog/2016/07/27/rust-platform/)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
+* [Error Handling in Rust](https://nrc.github.io/error-docs/intro.html)
 
 ### Notes {#Rust_Notes}
 
