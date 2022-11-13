@@ -80,6 +80,8 @@
 * [The Rust Platform](https://aturon.github.io/blog/2016/07/27/rust-platform/)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 * [Error Handling in Rust](https://nrc.github.io/error-docs/intro.html)
+* [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+* [Rustlings](https://github.com/rust-lang/rustlings/)
 
 ### Notes {#Rust_Notes}
 
