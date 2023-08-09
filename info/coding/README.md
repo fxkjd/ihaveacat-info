@@ -64,9 +64,9 @@
 
 ## Rust {#Rust}
 
-* [Writing an OS in Rust](https://os.phil-opp.com/first-edition/)
+* [Writing an OS in Rust](https://os.phil-opp.com/first-edition/) - [Second edition](https://os.phil-opp.com/)
 * [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/#standard-library-traits-used-for-error-handling)
-* [#[test] in 2018](https://blog.jrenner.net/rust/testing/2018/07/19/test-in-2018.html)
+* [#[test] in 2018](https://web.archive.org/web/20200120020904/https://blog.jrenner.net/rust/testing/2018/07/19/test-in-2018.html)
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - [more info](https://users.rust-lang.org/t/why-do-rust-programs-use-more-memory-than-the-c-haskell-and-ocaml-versions/3224)
 * [The Rust borrow checker from a different perspective](https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html)
 * [Should small Rust structs be passed by-copy or by-borrow?](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
@@ -74,7 +74,7 @@
 * [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 * [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html)
-* [Rust data structures with circular references](https://veykril.github.io/tlborm/introduction.html)
+* [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/)
 * [Why asynchronous Rust doesn't work](https://eta.st/2021/03/08/async-rust-2.html)
 * [Microsoft beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 * [The Rust Platform](https://aturon.github.io/blog/2016/07/27/rust-platform/)
