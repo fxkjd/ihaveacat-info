@@ -82,6 +82,7 @@
 * [Error Handling in Rust](https://nrc.github.io/error-docs/intro.html)
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Rustlings](https://github.com/rust-lang/rustlings/)
+* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 
 ### Notes {#Rust_Notes}
 
