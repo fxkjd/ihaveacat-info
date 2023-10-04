@@ -10,6 +10,7 @@
 * [APK splitting](https://raccoon.onyxbits.de/blog/merge-split-apk/)
 * [Extracting proprietary blobs from LineageOS zip files](https://wiki.lineageos.org/extracting_blobs_from_zips.html)
 * [How to Unpack/Pack Factory Images](https://web.archive.org/web/20190729025644/http://rex-shen.net/android-unpackpack-factory-images/)
+* [New ways to inject system CA certificates in Android 14](https://httptoolkit.com/blog/android-14-install-system-ca-certificate/)
 
 ## iOS {#Ios}
 
