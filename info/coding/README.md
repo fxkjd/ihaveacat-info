@@ -83,6 +83,7 @@
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 * [Rustlings](https://github.com/rust-lang/rustlings/)
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
 ### Notes {#Rust_Notes}
 
