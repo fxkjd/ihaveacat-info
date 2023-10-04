@@ -23,6 +23,7 @@
 * [Top 10 CI/CD Security Risks](https://www.cidersecurity.io/top-10-cicd-security-risks/)
 * [DevSecOps Library](https://github.com/sottlmarek/DevSecOps)
 * [Building on an AppSec Pipeline with Burp Suite data](https://www.silentrobots.com/building-an-appsec-pipeline-with-burpsuite-data/) - [Part 2](https://www.silentrobots.com/pushing-burp-suite-data-into-your-testing-pipeline-part-2/)
+* [How to Rotate - an open-source collection of API key rotation tutorials](https://howtorotate.com/docs/introduction/getting-started/)
 
 ## Tools {#Tools}
 
@@ -30,6 +31,9 @@
 * [Nginxconfig - NGiИX config generator](https://nginxconfig.io/)
 * [Trivy - Vulnerability scanner for containers and other artifacts](https://aquasecurity.github.io/trivy)
 * [Checkov - Scans cloud infrastructure configurations to find misconfigurations](https://www.checkov.io/)
+* [Dockle - Build the Best-Practice Docker Image](https://github.com/goodwithtech/dockle)
+* [OSS Gadget - Collection of tools for analyzing open source packages](https://github.com/microsoft/OSSGadget)
+* [Capslock - Capability analysis CLI for Go packages](https://github.com/google/capslock)
 
 ## Challenges {#Challenges}
 
