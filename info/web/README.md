@@ -23,6 +23,8 @@
 * [Practical HTTP Header Smuggling](https://www.intruder.io/research/practical-http-header-smuggling)
 * [Dangling markup injection](https://portswigger.net/web-security/cross-site-scripting/dangling-markup)
 * [Excess XSS - A comprehensive tutorial on cross-site scripting](https://excess-xss.com/)
+* [JWT attacks](https://juba-notes.notion.site/JWT-attacks-4f62b2b641a84032bc624f8e8432345d)
+* [PHP vulnerabilities compilation (CN)](https://www.leavesongs.com/PENETRATION/docker-php-include-getshell.html)
 
 ### Payload lists {#Payloads}
 
