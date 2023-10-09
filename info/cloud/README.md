@@ -16,6 +16,7 @@
 ## Tools
 
 * [Stratus Red Team - Granular, Actionable Adversary Emulation for the Cloud](https://github.com/DataDog/stratus-red-team)
+* [cloudgrep - Grep for Cloud Storage ](https://github.com/cado-security/cloudgrep)
 
 ## Challenges {#Challenges}
 
