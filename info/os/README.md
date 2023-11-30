@@ -25,6 +25,7 @@
 * [Linux Kernel Development](https://devarea.com/linux-kernel-development-and-writing-a-simple-kernel-module/)
 * [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 * [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+* [Linux Filesystem Hierarchy](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 
 ## Windows {#Windows}
 
