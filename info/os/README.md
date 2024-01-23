@@ -26,6 +26,7 @@
 * [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 * [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [Linux Filesystem Hierarchy](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+* [Linux syscalls table](https://gpages.juszkiewicz.com.pl/syscalls-table/syscalls.html)
 
 ## Windows {#Windows}
 
