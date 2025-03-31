@@ -12,6 +12,7 @@
 
 * [C-Based Toolchain Hardening](https://www.owasp.org/index.php/C-Based_Toolchain_Hardening)
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+* [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 
 ## Compilers {#Compilers}
 
