@@ -30,14 +30,15 @@
 
 * [WhaleTail - Reverse engineer a Docker Image into the Dockerfile](https://github.com/P3GLEG/WhaleTail)
 * [Nginxconfig - NGiИX config generator](https://nginxconfig.io/)
-* [Trivy - Vulnerability scanner for containers and other artifacts](https://aquasecurity.github.io/trivy)
-* [Checkov - Scans cloud infrastructure configurations to find misconfigurations](https://www.checkov.io/)
+* [Trivy - Vulnerability scanner for containers and other artifacts](https://github.com/aquasecurity/trivy)
+* [Checkov - Scans cloud infrastructure configurations to find misconfigurations](https://github.com/bridgecrewio/checkov)
 * [Dockle - Build the Best-Practice Docker Image](https://github.com/goodwithtech/dockle)
 * [OSS Gadget - Collection of tools for analyzing open source packages](https://github.com/microsoft/OSSGadget)
 * [Capslock - Capability analysis CLI for Go packages](https://github.com/google/capslock)
 * [Nord Stream - Tool that allows you to extract secrets stored inside CI/CD environments by deploying malicious pipelines](https://github.com/synacktiv/nord-stream)
 * [KubeHound - Kubernetes Attack Graph](https://github.com/DataDog/KubeHound) - [Blog post](https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/)
-* [Harden-Runner - a CI/CD security agent that works like an EDR for GitHub Actions runners](https://github.com/step-security/harden-runner)
+* [Harden-Runner - A CI/CD security agent that works like an EDR for GitHub Actions runners](https://github.com/step-security/harden-runner)
+* [Aikido Safe Chain - Protect against malicious code](https://github.com/AikidoSec/safe-chain)
 
 ## Challenges {#Challenges}
 
