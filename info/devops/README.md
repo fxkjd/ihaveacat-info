@@ -37,6 +37,7 @@
 * [Capslock - Capability analysis CLI for Go packages](https://github.com/google/capslock)
 * [Nord Stream - Tool that allows you to extract secrets stored inside CI/CD environments by deploying malicious pipelines](https://github.com/synacktiv/nord-stream)
 * [KubeHound - Kubernetes Attack Graph](https://github.com/DataDog/KubeHound) - [Blog post](https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/)
+* [Harden-Runner - a CI/CD security agent that works like an EDR for GitHub Actions runners](https://github.com/step-security/harden-runner)
 
 ## Challenges {#Challenges}
 
