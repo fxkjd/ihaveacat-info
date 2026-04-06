@@ -39,6 +39,7 @@
 * [KubeHound - Kubernetes Attack Graph](https://github.com/DataDog/KubeHound) - [Blog post](https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/)
 * [Harden-Runner - A CI/CD security agent that works like an EDR for GitHub Actions runners](https://github.com/step-security/harden-runner)
 * [Aikido Safe Chain - Protect against malicious code](https://github.com/AikidoSec/safe-chain)
+* [Trajan - A multi-platform CI/CD vulnerability detection and attack automation tool](https://github.com/praetorian-inc/trajan)
 
 ## Challenges {#Challenges}
 
