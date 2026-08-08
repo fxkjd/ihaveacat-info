@@ -9,4 +9,5 @@ build-dir = "book"
 create-missing = false
 
 [output.html]
-
+no-section-label = true
+sidebar-header-nav = false
