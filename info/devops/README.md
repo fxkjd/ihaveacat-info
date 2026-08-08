@@ -40,6 +40,7 @@
 * [Harden-Runner - A CI/CD security agent that works like an EDR for GitHub Actions runners](https://github.com/step-security/harden-runner)
 * [Aikido Safe Chain - Protect against malicious code](https://github.com/AikidoSec/safe-chain)
 * [Trajan - A multi-platform CI/CD vulnerability detection and attack automation tool](https://github.com/praetorian-inc/trajan)
+* [tfplantui - An interactive terminal UI for reading Terraform plans](https://github.com/omarismail/terraform-plan-tui)
 
 ## Challenges {#Challenges}
 
