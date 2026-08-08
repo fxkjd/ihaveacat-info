@@ -12,3 +12,6 @@ create-missing = false
 no-section-label = true
 sidebar-header-nav = false
 additional-css = ["theme/custom.css"]
+
+[output.html.print]
+enable = false
