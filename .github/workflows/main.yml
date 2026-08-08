@@ -1,22 +1,17 @@
-name: Build & Deploy 
+name: Deploy
 
 on: [push]
 
 jobs:
-  build:
+  deploy:
     name: info.ihavea.cat
     runs-on: ubuntu-latest
     steps:
-    # Build docker image
-    - uses: actions/checkout@v1
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag ihaveacat-info:$(date +%s)
-    # Deploy to server
-    - name: Deploy to Server
-      uses: appleboy/ssh-action@1d1b21ca96111b1eb4c03c21c14ebb971d2200f6
-      with:
-        host: ${{ secrets.HOST }}
-        key: ${{ secrets.PRIVATE_KEY }}
-        username: ${{ secrets.USER }}
-        port: ${{ secrets.PORT }}
-        script: /opt/deploy/run
+      - name: Deploy to Server
+        uses: appleboy/ssh-action@1d1b21ca96111b1eb4c03c21c14ebb971d2200f6
+        with:
+          host: ${{ secrets.HOST }}
+          key: ${{ secrets.PRIVATE_KEY }}
+          username: ${{ secrets.USER }}
+          port: ${{ secrets.PORT }}
+          script: /opt/deploy/run
