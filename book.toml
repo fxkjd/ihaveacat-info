@@ -1,0 +1,12 @@
+[book]
+title = "Info · Ihaveacat"
+description = "Interesting posts, notes, tools, and resources found in the wild."
+language = "en"
+src = "info"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+

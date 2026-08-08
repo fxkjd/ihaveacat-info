@@ -1,15 +1,14 @@
-FROM node:carbon-alpine
+FROM rust:1.88-alpine AS builder
 
-# Create app directory
-WORKDIR /usr/src/app
+RUN apk add --no-cache musl-dev \
+    && cargo install mdbook --version "=0.5.4" --locked
 
-# INSTALL Gitbook-cli
-RUN npm install gitbook-cli -g
+FROM alpine:3.22
 
-# Bundle app source
+COPY --from=builder /usr/local/cargo/bin/mdbook /usr/local/bin/mdbook
+
+WORKDIR /book
 COPY . .
 
-# Use -p to bind to specific host port
 EXPOSE 4000
-CMD [ "gitbook", "serve", "--no-live", "--no-watch"]
-
+CMD ["mdbook", "serve", "--hostname", "0.0.0.0", "--port", "4000"]
