@@ -4,6 +4,7 @@
 
 ----
 
+* [AI](ai/README.md)
 * [Blue Team](blue_team/README.md)
 * [Bug Bounty](bounty/README.md)
 * [Cloud](cloud/README.md)
