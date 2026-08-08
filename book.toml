@@ -11,3 +11,4 @@ create-missing = false
 [output.html]
 no-section-label = true
 sidebar-header-nav = false
+additional-css = ["theme/custom.css"]
