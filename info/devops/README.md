@@ -25,6 +25,7 @@
 * [Building on an AppSec Pipeline with Burp Suite data](https://www.silentrobots.com/building-an-appsec-pipeline-with-burpsuite-data/) - [Part 2](https://www.silentrobots.com/pushing-burp-suite-data-into-your-testing-pipeline-part-2/)
 * [How to Rotate - an open-source collection of API key rotation tutorials](https://howtorotate.com/docs/introduction/getting-started/)
 * [How to traceroute Kubernetes pod-to-pod traffic](https://medium.com/globant/tracerouting-pod-to-pod-traffic-a45fabd86f77)
+* [GitHub Actions Security Checklist for Supply Chain Attacks](https://corgea.com/learn/github-actions-security-checklist)
 
 ## Tools {#Tools}
 
