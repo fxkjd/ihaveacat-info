@@ -9,6 +9,7 @@
 * [Linux Auditing System (aka AuditD)](https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/)
 * [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
 * [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
+* [Detecting and removing dangerous secrets on dev workstations](https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/)
 
 ## Tools {#Tools}
 
