@@ -11,3 +11,5 @@
 * [Security Audit Skill - A coding-agent skill for multi-phase security audits](https://github.com/cloudflare/security-audit-skill)
 * [Agent Governance Toolkit - Policy enforcement, sandboxing, etc for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
 * [agent-safehouse - Sandbox your LLM coding agents on macOS](https://github.com/eugene1g/agent-safehouse)
+* [Codeburn - local tool to track AI coding token usage and cost](https://github.com/getagentseal/codeburn)
+* [Beads - A memory upgrade for your coding agent](https://github.com/gastownhall/beads)
