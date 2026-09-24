@@ -13,3 +13,7 @@
 * [agent-safehouse - Sandbox your LLM coding agents on macOS](https://github.com/eugene1g/agent-safehouse)
 * [Codeburn - local tool to track AI coding token usage and cost](https://github.com/getagentseal/codeburn)
 * [Beads - A memory upgrade for your coding agent](https://github.com/gastownhall/beads)
+* [re-shell - Nix flake-based agentic reverse engineering environment](https://github.com/schlarpc/re-shell)
+* [RedAI - AI-driven vulnerability discovery](https://github.com/kpolley/redai)
+* [OpenCodeReview - Alibaba Group's internal official AI code review assistant](https://github.com/alibaba/open-code-review)
+* [HackGPT - AI-powered penetration testing platform](https://github.com/yashab-cyber/HackGpt)
