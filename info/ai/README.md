@@ -17,3 +17,4 @@
 * [RedAI - AI-driven vulnerability discovery](https://github.com/kpolley/redai)
 * [OpenCodeReview - Alibaba Group's internal official AI code review assistant](https://github.com/alibaba/open-code-review)
 * [HackGPT - AI-powered penetration testing platform](https://github.com/yashab-cyber/HackGpt)
+* [Drop - Linux sandboxing that doesn't get in your way](https://github.com/wrr/drop)
