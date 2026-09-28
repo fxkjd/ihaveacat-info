@@ -25,3 +25,4 @@
 
 * [Bettercap - Swiss army knife for network attacks and monitoring](https://github.com/bettercap/bettercap)
 * [Nmap_vulners - NSE script based on Vulners.com API](https://github.com/vulnersCom/nmap-vulners)
+* [req2proto - Tool for reversing Google internal protobuf](https://github.com/ddd/req2proto)
