@@ -19,3 +19,4 @@
 * [HackGPT - AI-powered penetration testing platform](https://github.com/yashab-cyber/HackGpt)
 * [Drop - Linux sandboxing that doesn't get in your way](https://github.com/wrr/drop)
 * [REA - Reverse Engineer Anything](https://github.com/morluto/rea)
+* [OpenShell - Nvidia's Runtime for Autonomous AI Agents](https://github.com/NVIDIA/OpenShell)
